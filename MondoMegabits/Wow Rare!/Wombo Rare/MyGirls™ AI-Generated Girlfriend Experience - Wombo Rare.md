@@ -1,4 +1,4 @@
-![[0030.mp4]]
+![[0030a.mp4]]
 
 Our new line of body spray is jacked to the gills with CIA nanomacros designed to boost your Confidence IQ. After passing the blood-brain barrier, the NanoBits cause you to hallucinate supermodels who wink at you and bop their bums in the corners of your vision like sleep paralysis demons at all hours of the day.
 
@@ -19,8 +19,9 @@ Our new line of body spray is jacked to the gills with CIA nanomacros designed t
 -   **Creature may not hang out with his friends or have fun.**
 
 [[Faction - Fake Tech]]
-[[R2]]
+[[R6]]
 [[Items]]
 [[Chromeware]]
+[[Wombo Rare]]
 
-#fake-tech #R2 #item #chromeware 
+#fake-tech #R6 #item #chromeware #wombo-rare 
