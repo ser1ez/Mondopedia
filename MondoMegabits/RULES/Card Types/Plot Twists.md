@@ -1,0 +1,1 @@
+Plot twists change the game and radically shift the paradigm. They can be enacted at any point in play, and their effects are wide-reaching and powerful, with each card doing something different. After a player plays a plot twist, all effects from tactics and agendas are halted for one full turn. This applies to both players. Plot twists are discarded after use.

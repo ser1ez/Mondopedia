@@ -1,0 +1,1 @@
+Incantations invoke the dark side of mondo megabits. You might want to think twice before adding these to your deck. They are like tactics but they cost zero funding points to play and they must be played immediately upon seeing them in the deck. The player may not choose to not play them.

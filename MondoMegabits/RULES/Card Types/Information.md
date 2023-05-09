@@ -1,0 +1,1 @@
+Information is free and typically useless, but worth its weight in gold to someone like me. These cards sometimes have abilities and effects, but are mostly just there to provide a little spice, backstory to an otherwise boring and dry game. When a card effect conflicts with the core rules of the game, remember that cards always hold priority over the rules.

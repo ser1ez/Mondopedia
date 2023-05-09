@@ -1,0 +1,1 @@
+Skills cost one funding point to play. They're similar to items but they are destroyed when the creature they are attached to is destroyed.

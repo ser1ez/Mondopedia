@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "3680dcf7d1955f97",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6104a2537bbf8fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07eea58b94d222ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fake Tech/Cards/Artisanal Camo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f25002abfa2a001",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "380eee14f68818cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fake Tech/Cards/Internal Power Unit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a136707f7e5527bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fake Tech/Cards/Active Camo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec4a26d918c5417d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fake Tech/Cards/Xbox Live Vision Camera (HACKED).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "672df84f41d883cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fake Tech/Cards/Rogue Implant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43a754c4e8243b09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fake Tech/Cards/MyGirls™ AI-Generated Girlfriend Experience.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f66fd60cab14022f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Artists & Devs/Sam Hyde.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60cb96458d7e8fe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3dd312b10d34a6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37afc070f5d97832",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43c12b0b664270e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcabdbea8c8de0c5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 571.5
+  },
+  "right": {
+    "id": "b9eaebdd2016bb20",
+    "type": "split",
+    "children": [
+      {
+        "id": "14a9b12420464301",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6df292021f66e0ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62fcfb856d2d29bc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7452ce3598ecc615",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8c5010d5ec8031fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d315bf30175575a2",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "37afc070f5d97832",
+  "lastOpenFiles": [
+    "Fake Tech/Videos/RARE/0093a.mp4",
+    "Fake Tech/Videos/RARE/0092a.mp4",
+    "Fake Tech/Videos/RARE/0087a.mp4",
+    "Fake Tech/Videos/RARE/0085a.mp4",
+    "Fake Tech/Videos/RARE/0079a.mp4",
+    "Fake Tech/Videos/RARE/0077a.mp4",
+    "Fake Tech/Videos/RARE/0077a.mp4.opdownload",
+    "Fake Tech/Videos/RARE/0074a.mp4",
+    "Fake Tech/Videos/RARE/0074a.mp4.opdownload",
+    "Fake Tech/Videos/RARE/0073a.mp4",
+    "Fake Tech/Videos/RARE/0073a.mp4.opdownload",
+    "Fake Tech/Cards/NASNA Studios.md",
+    "RULES/Card Types/Agendas.md",
+    "RULES/Card Types/Locations.md",
+    "RULES/Card Types/Information.md",
+    "RULES/Card Types/Groups.md",
+    "RULES/Card Types/Challenges.md",
+    "Pasted image 20230502131200.png",
+    "Fake Tech/Lore/Chromeware.md",
+    "Fake Tech/Cards/DomeHomie Cortical Modem Chip.md",
+    "Fake Tech/Cards/Artisanal Camo.md",
+    "Fake Tech/Cards/Xbox Live Vision Camera (HACKED).md",
+    "Fake Tech/Cards/Rogue Implant.md",
+    "Fake Tech/Cards/MyGirls™ AI-Generated Girlfriend Experience.md",
+    "Artists & Devs/Sam Hyde.md",
+    "Fake Tech/Cards/Active Camo.md",
+    "Fake Tech/Cards/Internal Power Unit.md",
+    "Fake Tech/Cards/GhostTec™ Certification Card.md",
+    "Fake Tech/Cards/GhostTec™ Goop Vial.md",
+    "Fake Tech/Cards/GhostTec™ SpectraHub.md",
+    "Fake Tech/Cards/GhostTec™ OdorTizer.md",
+    "Fake Tech/Cards/GhostTec™ HELLmet.md",
+    "Mondopedia.md",
+    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards/Elite Bomb Shelter.md",
+    "Artists & Devs/Miles McGrady.md",
+    "Artists & Devs/1bicflame.md",
+    "Artists & Devs/Jet Neptune.md",
+    "Bum Legion 2099/Pictures/Spoiler_themanwiththegoldenvoice_bumlegion2099.png",
+    "Bum Legion 2099/Pictures/Spoiler_RawTruth_bumlegion2099.png",
+    "Bum Legion 2099/Pictures/Spoiler_theToolsYouNeed_bumlegion2099.png",
+    "Bum Legion 2099/Pictures/Spoiler_BumArmy_bumlegion2099.png",
+    "Bum Legion 2099/Pictures/Spoiler_badnotification_bumlegion2099.png",
+    "Bum Legion 2099/Pictures/Spoiler_DitchContraband_bumlegion2099.png",
+    "F.E.M.A.C.U.B.E/Pictures/Spoiler_snizadu_femacube.png",
+    "F.E.M.A.C.U.B.E/Pictures/Spoiler_vaydac_femacube.png",
+    "Pasted image 20230501214348.png"
+  ]
+}

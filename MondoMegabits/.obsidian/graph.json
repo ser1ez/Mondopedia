@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "ghostTec",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#bum-legion-2099",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#FEMACUBE",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#fake-tech",
+      "color": {
+        "a": 1,
+        "rgb": 13311
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.666666666666667,
+  "repelStrength": 10,
+  "linkStrength": 0.421875,
+  "linkDistance": 250,
+  "scale": 1.4019828977761255,
+  "close": false
+}

@@ -1,0 +1,11 @@
+-   All regimes ultimately need armies to enforce their insane whims, your creatures are that army.
+-   Creatures may not act during the same turn they are played, this is known as summoning sickness (a term that we invented).
+-   A creature may either do a basic attack or an ability, but not both every turn.
+-   Creatures with five or higher fighting ability may perform two attacks per turn.
+-   Creatures with ten fighting ability may perform three attacks.
+-   Creatures with five or higher energy projection may perform two abilities per turn.
+-   Creatures with ten NRG may perform three abilities per turn.
+-   Creatures with five or higher swag may perform both basic attacks and abilities in the same turn, and may perform as many as their respective FYT and NRG ratings will allow.
+-   A basic attack does damage to a single target in the amount of 100 times the attacking creature's STR or strength rating.
+-   Abilities do different things on a case-by-case basis, they are written at the bottom of the card.
+-   Creatures remain in play until they are destroyed.
