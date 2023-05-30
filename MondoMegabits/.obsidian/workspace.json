@@ -4,463 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b6104a2537bbf8fe",
+        "id": "a9e05b5c85aaf18d",
         "type": "tabs",
         "children": [
           {
-            "id": "07eea58b94d222ce",
+            "id": "75810b3358b3d125",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fake Tech/Cards/Artisanal Camo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f25002abfa2a001",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5221ee0d8f2d9a19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/AD Supported/Cell Phone - Ad Supported.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91fe6848253c9a9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Upside Down/Time Machine - Upside Down.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "536bb77ee627d964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Inverted/Super Computer 1999 - Inverted.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e451609693316472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Weed Rare/The Algorithm - Weed Rare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e6e0f2e1b4b1c4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Drippin/Blockchain Evangelist - Drippin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03aafbdc909a4b07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Chrome/Power Cell - Chrome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f274dfb2f470fe73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Wombo Rare/GhostTec™ SpectraHub - Wombo Rare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "740174e821c9d607",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Sealed/Verbal Word Bullets - Sealed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60630b273aba25fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Flash Rare/Roboid Mental Health Check - Flash Rare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "448165345ed02777",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Wombo Rare/MyGirls™ AI-Generated Girlfriend Experience - Wombo Rare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cefc6e7010d7543",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Optical Anachromism/Power Wand - Optical Anachromism Rare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "056a32ff1017a9ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Snowglobe/Disarmer - Snowglobe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93c67f17b08e26c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Wombo Rare/A Magnet - Wombo Rare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9fd1fc21c92023c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Glitched/Cold-Blooded EVA Suit - Glitched.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43f2c955eec358fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Non-Animated/Mannitol Nanomachine Injector - Non-Animated.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67ec57b1eb677783",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Deep Fried/Bogus Freeze Gun - Deep Fried.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed2d80cadc172e51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Drippin/Megamix - an Early 23th Century Zarquanian Dominion Ship-of-the-Line - Drippin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7964e66bd23b9679",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Wombo Rare/Lunar Drillbit - Wombo Rare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f56e0f5600e11c0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/You know it's rare!/Polycosmic Manipulation - You Know it's Rare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b875ee0936f77efc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/You know it's rare!/Polycosmic Manipulation - You Know it's Rare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42ec46cff5bd8dca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/AD Supported/Cialamin - Ad Supported.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8d6cbe6e453fce3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Little Guy Edition/Busted Pharmaceutical Kiosk - Little Guy Edition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "409f165a0be2fa35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Optical Anachromism/Phagic Rebel - Optical Anachromism Rare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c189a4b5a2231051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Little Guy Edition/Harp of Conflict - Little Guy Edition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb91ba6064be9a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Drunk/GMS (Gimme My Space) Mk. III Energy Projector - Drunk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b74c6e7fcbc1ca2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Inverted/Amplifier Circuit - Inverted.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d01f28f2ee092506",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Gold Perfect Rare/Panopticon You - Gold Perfect Rare.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ea5d03c262e04fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Little Guy Edition/Teleport Tracker - Little Guy Edition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5a358955d8e3c65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/Inverted/Portal Formula - Inverted.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99ff4316bc4851e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wow Rare!/AD Supported/Cell Phone - Ad Supported.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "380eee14f68818cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fake Tech/Cards/Internal Power Unit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a136707f7e5527bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fake Tech/Cards/Active Camo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec4a26d918c5417d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fake Tech/Cards/Xbox Live Vision Camera (HACKED).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "672df84f41d883cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fake Tech/Cards/Rogue Implant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43a754c4e8243b09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fake Tech/Cards/MyGirls™ AI-Generated Girlfriend Experience.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f66fd60cab14022f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Artists & Devs/Sam Hyde.md",
+                "file": "Artists & Devs/Jet Neptune.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 31
+        ]
       }
     ],
     "direction": "vertical"
@@ -505,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "1af976cd74a5dfbd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -526,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wow Rare!/AD Supported/Cell Phone - Ad Supported.md",
+                "file": "Artists & Devs/Jet Neptune.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -543,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wow Rare!/AD Supported/Cell Phone - Ad Supported.md",
+                "file": "Artists & Devs/Jet Neptune.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -566,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wow Rare!/AD Supported/Cell Phone - Ad Supported.md"
+                "file": "Artists & Devs/Jet Neptune.md"
               }
             }
           },
@@ -587,47 +154,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "publish:Publish changes": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "99ff4316bc4851e9",
+  "active": "75810b3358b3d125",
   "lastOpenFiles": [
+    "Artists & Devs/deadhanded.md",
+    "Artists & Devs/1bicflame.md",
+    "Artists & Devs/Jet Neptune.md",
+    "Artists & Devs/Sam Hyde.md",
+    "Artists & Devs/Miles McGrady.md",
+    "Fake Tech/Cards/Artisanal Camo.md",
+    "Wow Rare!/Upside Down/Time Machine - Upside Down.md",
+    "Fake Tech/Cards/Scientific Proof.md",
+    "Fake Tech/Cards/Stealth Warp.md",
+    "Fake Tech/Cards/Super Computer 1999.md",
+    "Fake Tech/Cards/Rogue Implant.md",
+    "Fake Tech/Cards/Roboid Mental Health Check.md",
+    "Fake Tech/Cards/Restraint Gun.md",
+    "Fake Tech/Cards/Research Element 151.md",
+    "Fake Tech/Cards/Missionate.md",
+    "Fake Tech/Cards/Monocular Supercomputer.md",
+    "Fake Tech/Cards/Lushsux Dix.md",
+    "Fake Tech/Cards/Inscribe and Requite.md",
+    "Fake Tech/Cards/Amplifier Circuit.md",
+    "Fake Tech/Cards/A Magnet.md",
+    "Fake Tech/Cards/Nopalgarthian Emplacer.md",
+    "Wow Rare!/AD Supported/Cell Phone - Ad Supported.md",
     "Wow Rare!/Snowglobe/Waypoint Database - Snowglobe.md",
     "Fake Tech/Cards/Waypoint Database.md",
     "Wow Rare!/Inverted/Portal Formula - Inverted.md",
     "Fake Tech/Cards/Portal Formula.md",
-    "Wow Rare!/Little Guy Edition/Teleport Tracker - Little Guy Edition.md",
-    "Fake Tech/Cards/Teleport Tracker.md",
-    "Wow Rare!/Gold Perfect Rare/Panopticon You - Gold Perfect Rare.md",
-    "Fake Tech/Cards/Panopticon You.md",
-    "Wow Rare!/Inverted/Amplifier Circuit - Inverted.md",
     "Wow Rare!/Gold Perfect Rare",
-    "Fake Tech/Cards/Amplifier Circuit.md",
-    "Wow Rare!/Drunk/GMS (Gimme My Space) Mk. III Energy Projector - Drunk.md",
-    "Fake Tech/Cards/GMS (Gimme My Space) Mk. III Energy Projector.md",
-    "Wow Rare!/Little Guy Edition/Harp of Conflict - Little Guy Edition.md",
     "Wow Rare!/Drunk",
-    "Fake Tech/Cards/Harp of Conflict.md",
-    "Wow Rare!/Optical Anachromism/Phagic Rebel - Optical Anachromism Rare.md",
-    "Fake Tech/Cards/Phagic Rebel.md",
-    "Wow Rare!/Little Guy Edition/Busted Pharmaceutical Kiosk - Little Guy Edition.md",
-    "Fake Tech/Cards/Busted Pharmaceutical Kiosk.md",
-    "Wow Rare!/AD Supported/Cialamin - Ad Supported.md",
     "Wow Rare!/Little Guy Edition",
-    "Fake Tech/Cards/Cialamin.md",
-    "Wow Rare!/You know it's rare!/Polycosmic Manipulation - You Know it's Rare.md",
-    "Wow Rare!/Wombo Rare/MyGirls™ AI-Generated Girlfriend Experience - Wombo Rare.md",
-    "Wow Rare!/Wombo Rare/Lunar Drillbit - Wombo Rare.md",
-    "Wow Rare!/Wombo Rare/GhostTec™ SpectraHub - Wombo Rare.md",
-    "Wow Rare!/Wombo Rare/A Magnet - Wombo Rare.md",
-    "Wow Rare!/Weed Rare/The Algorithm - Weed Rare.md",
     "Wow Rare!/You know it's rare!",
     "Wow Rare!/Deep Fried",
     "Wow Rare!/Non-Animated",
