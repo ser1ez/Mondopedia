@@ -1,4 +1,5 @@
-![[0080.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0080.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
 **Vyco (Jack) and D.I.N. (Jill**) are tandem artificial intelligences created by NorKon machine-learning researchers. Attempts at creating a single entity with the ability to think like a human <self-awareness, creativity, etc.> resulted without exception in the suicide of the cyber lifeform. The NorKons found that separating certain personality traits and impulses into SLI-bridged containers (exactly like they are in a real human brain) enabled the new minds(s) (they/them) to be merely existentially-depressed- and therefore not bad enough to self-harm by running Prime95 on every thread in a feedback loop.
 
 **Vyco (Jack) and D.I.N. (Jill)** can pilot an electric vehicle, identify song lyrics, and consistently beat the Chutes and Ladders world champion, so they/them is literally a superintelligence more important or complex than any ape-brained human. Provided, of course, that the egghead caretakers remember to properly clean and lubricate the Intelligent Radiowave Link (IRL) which keeps the robotic hemispheres in contact.

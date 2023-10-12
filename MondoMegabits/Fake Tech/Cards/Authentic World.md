@@ -1,4 +1,4 @@
-![[0035.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0035.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 Beyond the star charts and probe drone mapping of the known Universe there reses a **Perfect Planet** unspoiled by contact from the predatory species that would claim it as a jewel among jewels. In other words, a completely whole-grain **Authentic World**, a perfect one where the natural order of death and life is not to be disrupted for any reason. Here, there are no Humans. Humans are so bad. Do you feel guilty for recognizing yourself in the mirror? You should.
 

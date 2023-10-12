@@ -1,4 +1,4 @@
-![[0068.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0068.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 **"Overwhelming confidence consumes you. A will unbreakable by Gods, men, beasts -- even bullies."** *(Unless they bring up that one thing you did. You know what I'm talking about.)*
 ***

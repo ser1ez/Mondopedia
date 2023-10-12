@@ -1,4 +1,4 @@
-![[0094.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0094.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > [!info] 
 > "5,000 years ago, the average humanoid would use a fossil-powered conveyance to perambulate. These conveyances were known as Bricklin SV-1s." 

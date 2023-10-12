@@ -1,4 +1,4 @@
-![[0040.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0040.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 **A strange magnetic material, may be magical in nature. It appears to draw in various metals and trinkets as though 'twere guided by an invisible hand.**
 **Strength**: 8/10

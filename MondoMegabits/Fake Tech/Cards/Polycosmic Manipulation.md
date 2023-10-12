@@ -1,4 +1,4 @@
-![[0064.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0064.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 **Polycosmic Manipulation-** the process of purposely discombobulating one or more **dominant narratives** by shuffling their various metaphysical components off to random "locations" in **collective consciousness** phase space (to free up prime real estate for other, more desirable narratives, such as "**Women Are Smart**" and "**Saxophones Are Good**"). Root cause of the noted "Mandela effect" urban legend.
 

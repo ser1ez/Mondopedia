@@ -1,4 +1,4 @@
-![[0050.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0050.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 **LushSux Dix,** big time-at least that's what the haters are saying (there's a lot of them).
 

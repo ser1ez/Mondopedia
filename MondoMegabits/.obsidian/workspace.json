@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a9e05b5c85aaf18d",
+        "id": "024ecf9b827821ee",
         "type": "tabs",
         "children": [
           {
-            "id": "75810b3358b3d125",
+            "id": "ab608afddda1fe93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artists & Devs/Jet Neptune.md",
+                "file": "Bum Legion 2099/Cards/Open Manhole.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#R2",
+                "query": "tag:#weapon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571.5
+    "width": 360.5
   },
   "right": {
     "id": "b9eaebdd2016bb20",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artists & Devs/Jet Neptune.md",
+                "file": "Bum Legion 2099/Cards/Open Manhole.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artists & Devs/Jet Neptune.md",
+                "file": "Bum Legion 2099/Cards/Open Manhole.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artists & Devs/Jet Neptune.md"
+                "file": "Bum Legion 2099/Cards/Open Manhole.md"
               }
             }
           },
@@ -143,6 +143,16 @@
             "state": {
               "type": "side-panel-control-view",
               "state": {}
+            }
+          },
+          {
+            "id": "cb3ce532df33f0cb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -164,53 +174,53 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "75810b3358b3d125",
+  "active": "ab608afddda1fe93",
   "lastOpenFiles": [
-    "Artists & Devs/media/jetneptune.png",
-    "Artists & Devs/media",
-    "Artists & Devs/1bicflame.md",
-    "Artists & Devs/Bill Jobs.md",
-    "Artists & Devs/Jet Neptune.md",
-    "Artists & Devs/Miles McGrady.md",
-    "Artists & Devs/Sam Hyde.md",
-    "Artists & Devs/deadhanded.md",
-    "Fake Tech/Cards/Artisanal Camo.md",
-    "Wow Rare!/Upside Down/Time Machine - Upside Down.md",
-    "Fake Tech/Cards/Scientific Proof.md",
-    "Fake Tech/Cards/Stealth Warp.md",
-    "Fake Tech/Cards/Super Computer 1999.md",
-    "Fake Tech/Cards/Rogue Implant.md",
-    "Fake Tech/Cards/Roboid Mental Health Check.md",
-    "Fake Tech/Cards/Restraint Gun.md",
-    "Fake Tech/Cards/Research Element 151.md",
-    "Fake Tech/Cards/Missionate.md",
-    "Fake Tech/Cards/Monocular Supercomputer.md",
-    "Fake Tech/Cards/Lushsux Dix.md",
-    "Fake Tech/Cards/Inscribe and Requite.md",
-    "Fake Tech/Cards/Amplifier Circuit.md",
-    "Fake Tech/Cards/A Magnet.md",
-    "Fake Tech/Cards/Nopalgarthian Emplacer.md",
-    "Wow Rare!/AD Supported/Cell Phone - Ad Supported.md",
-    "Wow Rare!/Snowglobe/Waypoint Database - Snowglobe.md",
-    "Fake Tech/Cards/Waypoint Database.md",
-    "Wow Rare!/Gold Perfect Rare",
-    "Wow Rare!/Drunk",
-    "Wow Rare!/Little Guy Edition",
-    "Wow Rare!/You know it's rare!",
-    "Wow Rare!/Deep Fried",
-    "Wow Rare!/Non-Animated",
-    "Fake Tech/Videos/RARE/0041a.mp4",
-    "Wow Rare!/Glitched",
+    "Bum Legion 2099/Cards/Public Computer Access.md",
+    "Bum Legion 2099/Cards/Raw Truth.md",
+    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards/World Health Organization Satellite Ring.md",
+    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards/Snuydac - Shiznadu Traces.md",
+    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards/Sandy Hookers.md",
+    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards/Lockdown (Standard).md",
+    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards/Lockdown (Guarded).md",
+    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards/Intro to Crisis Acting 101.md",
+    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards/G.I.D.md",
+    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards/Fake Alien Abduction.md",
+    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards/Elite Bomb Shelter.md",
+    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards/Druydac Varyags.md",
+    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards/Distributed Pools of Water.md",
+    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards/CIA 2 (Dark Blue) - The Chief Investigation Agency.md",
+    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards/Brain Scorchers.md",
+    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards",
+    "Bum Legion 2099/!!!SPOILERS!!! Cards/Wet Garbage Ghillie Suit.md",
+    "Bum Legion 2099/!!!SPOILERS!!! Cards/Tweaked.md",
+    "Bum Legion 2099/!!!SPOILERS!!! Cards/The tools you need.md",
+    "Bum Legion 2099/!!!SPOILERS!!! Cards/The actors curse.md",
+    "Bum Legion 2099/!!!SPOILERS!!! Cards/The Man with the Golden Voice.md",
+    "Bum Legion 2099/!!!SPOILERS!!! Cards/Taste It.md",
+    "Bum Legion 2099/!!!SPOILERS!!! Cards/TK Knight.md",
+    "Bum Legion 2099/!!!SPOILERS!!! Cards/Survival Arts.md",
+    "Bum Legion 2099/!!!SPOILERS!!! Cards/Sky Bums.md",
+    "Bum Legion 2099/!!!SPOILERS!!! Cards/Russian Bum Fire.md",
+    "Bum Legion 2099/!!!SPOILERS!!! Cards/Raw Truth.md",
+    "Bum Legion 2099/!!!SPOILERS!!! Cards",
+    "Pasted image 20231011200157.png",
     "Pasted image 20230502131200.png",
-    "Wow Rare!/Optical Anachromism",
+    "Bum Legion 2099/Videos/0120.mp4",
+    "Bum Legion 2099/Videos/0120.mp4.opdownload",
+    "Bum Legion 2099/Videos/0119.mp4",
+    "Bum Legion 2099/Videos/0119.mp4.opdownload",
+    "Bum Legion 2099/Videos/0118.mp4",
+    "Bum Legion 2099/Videos/0118.mp4.opdownload",
+    "Bum Legion 2099/Videos/0117.mp4",
+    "Bum Legion 2099/Videos/0117.mp4.opdownload",
+    "Artists & Devs/media/jetneptune.png",
     "Bum Legion 2099/Pictures/Spoiler_themanwiththegoldenvoice_bumlegion2099.png",
     "Bum Legion 2099/Pictures/Spoiler_RawTruth_bumlegion2099.png",
     "Bum Legion 2099/Pictures/Spoiler_theToolsYouNeed_bumlegion2099.png",
     "Bum Legion 2099/Pictures/Spoiler_BumArmy_bumlegion2099.png",
     "Bum Legion 2099/Pictures/Spoiler_badnotification_bumlegion2099.png",
     "Bum Legion 2099/Pictures/Spoiler_DitchContraband_bumlegion2099.png",
-    "F.E.M.A.C.U.B.E/Pictures/Spoiler_snizadu_femacube.png",
-    "F.E.M.A.C.U.B.E/Pictures/Spoiler_vaydac_femacube.png",
-    "Pasted image 20230501214348.png"
+    "F.E.M.A.C.U.B.E/Pictures/Spoiler_snizadu_femacube.png"
   ]
 }

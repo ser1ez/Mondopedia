@@ -1,4 +1,4 @@
-![[0043.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0043.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > [!todo] 
 > R&D To-Do: Figure out how to teleport without _SOUL DESTRUCTION._ 

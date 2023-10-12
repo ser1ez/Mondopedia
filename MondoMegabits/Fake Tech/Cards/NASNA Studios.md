@@ -1,4 +1,4 @@
-![[0053.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0053.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > *"LIVE Astronauts Hunt Alien Dinos in Mars 2 Crater 24/7 Stream - NASNA" <6,759,641 watching>*
 

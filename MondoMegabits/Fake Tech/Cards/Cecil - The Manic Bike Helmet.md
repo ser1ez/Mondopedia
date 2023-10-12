@@ -1,4 +1,4 @@
-![[0086.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0086.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > [!quote] 
 > *"In the future, protective helmets are seen as fashionable. Wearing knee and elbow pads will actually get you laid."* 

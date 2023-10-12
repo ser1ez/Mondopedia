@@ -1,4 +1,4 @@
-![[0060.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0060.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 The first recursive robot engineers are designed with Perfect Care, granting everyone a life of luxury. They do everything for us. 
 **They're Smarter Faster Better Stronger.**

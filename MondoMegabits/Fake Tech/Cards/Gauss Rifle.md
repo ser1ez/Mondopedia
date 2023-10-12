@@ -1,4 +1,5 @@
-![[0072.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0072.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
 > *"Wait. There was a house there. There was a house there before I shot.. Wh-.. Where is the house."*
 
 ***

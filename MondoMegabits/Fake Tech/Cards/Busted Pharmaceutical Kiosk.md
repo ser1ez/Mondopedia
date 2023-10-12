@@ -1,4 +1,4 @@
-![[0073.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0073.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > *"A chemistry is performed so that a chemical reaction occurs and generates a signal from the chemical interaction with the sample, which is translated into a result, which is then reviewed by certified laboratory personnel." *
 - **Elizabeth Holmes**

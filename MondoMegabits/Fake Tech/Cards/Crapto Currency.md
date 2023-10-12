@@ -1,4 +1,4 @@
-![[0016.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0016.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 The FEDGOV **BuckBreakingChain** was invented in 2034 following the Great Reset 2, in which all fiat hyperinflated simultaneously, globally and on purpose (same as last time). All value rushed into precious metals-with mom and pop businesses, retirees, successful artisans and craftsmen, highly paid doctors and lawyers, and the like, all rushing to take delivery of dumpsters and bread vans full of silver and gold, as we all expected they would.
 

@@ -1,4 +1,4 @@
-![[0092.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0092.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > [!success] 
 > "Now you and your mates can group-teleport to the pub, only to drink one-too-many pints and get multiple TUIs." 

@@ -1,4 +1,5 @@
-![[0074.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0074.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
 > [!important] 
 > "When humanity was willing to tell itself the truth about AIDS - that it was a combination of GRID and dysentery, the result of the WHO salvaging some topspin on a huge back-fucking epidemic - the dream of HIV was put to rest and a new era of hyperincubated, magna-effective DYNA-AIDS was made possible." 
 

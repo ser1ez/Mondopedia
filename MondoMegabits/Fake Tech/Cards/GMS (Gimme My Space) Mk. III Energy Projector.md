@@ -1,5 +1,4 @@
-![[0079.mp4]]
-
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0079.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 ## "Foos.. Ro.. Dah! : ) "
 ***
 Non-lethal weapon that pushes an adjacent target back with **extreme force**. Displaces air with sonic waves to gently send crowds of protesters flying. It hits like a truck made of air. The force is equivalent to being hit by a giant airbag-an airbag with a truck inside of it.

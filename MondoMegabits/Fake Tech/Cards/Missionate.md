@@ -1,4 +1,4 @@
-![[0076.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0076.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > *"Omg ur such an angelllll girl. Spazzz."*
 

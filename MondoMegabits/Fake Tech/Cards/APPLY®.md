@@ -1,4 +1,5 @@
-![[0088.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0088.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
 **APPLY(c):** Asian-owned company with faux Swedish aesthetics. This **ultra-sleek** modern multinational mega-conglomerate/technological powerhouse corporation boasts the latest and greatest in **2MASX mobile warfare.** Drop to your knees **!!!carefully!!!** In awe of state-of-the-art **dual carbon alloy digital photon zap-stunners**.
 ***
 *This is the Stum 9 my friends.*

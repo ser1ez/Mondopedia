@@ -1,4 +1,4 @@
-![[0002.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0002.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 ## "Awesome! PLEASE RAPE my mind again!!!"
 ***
 ThiS amazing invention is capable of intercepting any sensory data and digitally processing it, all for the low price of your eternal soul.  

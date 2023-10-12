@@ -1,7 +1,12 @@
 {
   "collapse-filter": false,
+<<<<<<< HEAD
+  "search": "location",
+  "showTags": false,
+=======
   "search": "",
   "showTags": true,
+>>>>>>> parent of fcff66e (Drop 2)
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,

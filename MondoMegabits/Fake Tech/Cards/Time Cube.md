@@ -1,4 +1,4 @@
-![[0082.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0082.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > [!quote] 
 > "16 corners, 96 hours and 4-simultaneous 24-hour Days within a single rotation of Earth - equated to a Higher Order of Life Time Cube" 

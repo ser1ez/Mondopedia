@@ -1,4 +1,4 @@
-![[0045.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0045.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > *"The future of tech-weapons was imagined to be elegant in design, but it appears to have taken on more of a slapstick aesthetic in reality."
 

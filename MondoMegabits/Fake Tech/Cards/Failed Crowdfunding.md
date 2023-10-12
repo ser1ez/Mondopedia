@@ -1,4 +1,5 @@
-![[0004.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0004.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
 > *"No, this one's different--it has double the NFC shielding of our nearest fifty competitors AND two types of bottle opener. For the $250 stretch goal we'll even throw in the elastic band expansion pack."*
 
 ***

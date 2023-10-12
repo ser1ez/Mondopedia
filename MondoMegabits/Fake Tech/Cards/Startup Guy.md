@@ -1,4 +1,4 @@
-![[0009.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0009.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > [!quote] 
 > "Dude this idea could be billions, not millions, hear me out: Twitter Two-Point-Oh. Here are the mockups and a five point plan, I'll ping you later." 

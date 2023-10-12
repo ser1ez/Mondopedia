@@ -1,4 +1,4 @@
-![[0096.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0096.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > [!quote] 
 > "It's now a standard for employers to look at teleport history. Looks like you won't be getting that elementary school teacher job." 

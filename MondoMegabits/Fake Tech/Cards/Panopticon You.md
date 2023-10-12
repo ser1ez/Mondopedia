@@ -1,4 +1,5 @@
-![[0087.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0087.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
 > [!note] 
 > "City Surfing Stream! LA Chill & Vibe IRL StonerStream ($3 TTS $5 Media)" 
 

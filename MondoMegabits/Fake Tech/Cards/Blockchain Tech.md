@@ -1,4 +1,5 @@
-![[0015.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0015.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
 > [!tip] 
 > *"Convince your parents to give you their credit card for OpenSea.io"* 
 

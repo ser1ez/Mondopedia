@@ -1,4 +1,4 @@
-![[0071.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0071.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > "People feared deepfakes because the technology could be used to incriminate them; they never realized the true purpose of deepfakery was to provide reasonable doubt for the mountain of kompromat that the Israelis (at the behest of the British Royals) would soon lay bare on WorldStar. Everyone saw the video of Mark Cuban gobbling toddler limbs, and nobody cared."
 ***

@@ -1,4 +1,5 @@
-![[0014.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0014.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
 > [!warning] 
 > *"You're lucku I'm giving you a second chance--to DIE!"* 
 

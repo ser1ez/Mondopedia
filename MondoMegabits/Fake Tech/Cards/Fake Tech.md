@@ -1,4 +1,4 @@
-![[0100.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0100.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > *"Be careful! If a single spec of dust gets caught inside of the generator, you can kiss this galaxy goodbye."*
 

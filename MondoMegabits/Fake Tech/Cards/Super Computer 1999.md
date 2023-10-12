@@ -1,4 +1,4 @@
-![[0011.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0011.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 **Model Number:** JGTh63Th1999-6th89736 
 **Blood Type:** Hydrargyrum-9 Super Thermal Mint 

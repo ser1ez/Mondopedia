@@ -1,4 +1,4 @@
-![[0099.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0099.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 **Final Narrative** - the calculation of the final outcome of the Universe (fake) with the total enterprise of all life on all planets as a quantifiable factor - must be constantly repostulated, reformulated, model projected and spell checked by interested parties at exponentially-increasing cost. The most efficient vehicle for this calculation is a special type of think tank org filled with semi-senient human computers which are networked together to create something effectively like ====The World's Smartest Man====.
 

@@ -1,4 +1,4 @@
-![[0025.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0025.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > [!attention] 
 > "We can teleport anything to Mars--we're the best." 

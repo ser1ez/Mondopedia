@@ -1,4 +1,5 @@
-![[0008.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0008.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
 > *"When we see the shadow on our images, are we seeing the time eleven minutes ago on Mars? idk I'm too high for this."*
 
 > [!danger] 

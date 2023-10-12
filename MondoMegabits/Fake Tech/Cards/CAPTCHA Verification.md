@@ -1,4 +1,4 @@
-![[0052.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0052.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > *"Say 'Alhamdulillah' in your Amazon Fire Stick remote microphone to activate the hidden channel."*
 ***

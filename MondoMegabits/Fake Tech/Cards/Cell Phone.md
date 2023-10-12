@@ -1,4 +1,5 @@
-![[0006.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0006.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
 > [!attention] 
 > PRICE: $2,000 
 
@@ -12,6 +13,6 @@ DM That Girl You Shouldn't Talk To: You know she's gonna _screenshot_this.
 [[Faction - Fake Tech]]
 [[R1]]
 [[Items]]
-[[Food/Trash]]
+[[Trash]]
 
 #fake-tech #R1 #item #Food/Trash

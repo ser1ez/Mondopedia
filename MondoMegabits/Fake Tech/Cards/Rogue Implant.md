@@ -1,4 +1,4 @@
-![[0055.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0055.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > [!help] 
 > "I'd like the Plus model please. The one with the yo-yo." 

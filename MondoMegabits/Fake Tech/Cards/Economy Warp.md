@@ -1,5 +1,4 @@
-![[0095.mp4]]
-
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0095.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 ### "Cheap and readily affordable to citizens! 
 ...Except for those people."
 ***

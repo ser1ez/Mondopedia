@@ -1,5 +1,4 @@
-![[0051.mp4]]
-
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0051.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 #### "qqqqqqqq we doin calcals baby"
 ***
 **MATH** is a form of arcane ====MAGICKA==== capable of turning **DATA** into **FACTS**. **FACTS** are important for **your opinion** and thus, a keystone element when presenting the justification for that behavior you're insecure about.

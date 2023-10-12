@@ -1,5 +1,4 @@
-![[0062.mp4]]
-
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0062.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 # "Modern Marvel"
 ***
 The base power source component that all CHROMEWARE relies upon, Internal Power Unit replaces the human heart with a mini-nuke reactor. Capable of powering mechsuits, techsuits, Mega Man suits, power armor, Tony Stark, Halo 1, Halo 2, etc.

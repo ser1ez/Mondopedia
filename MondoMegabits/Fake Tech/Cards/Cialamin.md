@@ -1,4 +1,4 @@
-![[0069.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0069.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 *Doesn't contain any chemicals, but they say your body "absorbs and amplifies" the shape of the pill, resulting in a massive boner.*
 

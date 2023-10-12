@@ -1,4 +1,4 @@
-![[0083.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0083.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 > [!note] 
 > "Was once used by my uncle Steve when temp checking his pork shoulder at his son's barbeque." 

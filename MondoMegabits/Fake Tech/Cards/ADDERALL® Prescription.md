@@ -1,4 +1,5 @@
-![[0003.mp4]]
+<iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0003.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
+
 > [!quote] 
 > *"$5 per. That's a deal, man, these are 50s. Hayden is selling for $4 but his are 30 milligrams. If Hayden keeps undercutting me I'm gonna tell Misses Watkins he's trapping out of her 3rd period."* 
 
