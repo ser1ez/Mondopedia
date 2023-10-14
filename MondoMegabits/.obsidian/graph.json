@@ -1,22 +1,31 @@
 {
   "collapse-filter": false,
-<<<<<<< HEAD
-  "search": "location",
+  "search": " ",
   "showTags": false,
-=======
-  "search": "",
-  "showTags": true,
->>>>>>> parent of fcff66e (Drop 2)
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "",
+      "query": "tag:#FEMACUBE  ",
       "color": {
         "a": 1,
         "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#fake-tech  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#bum-legion-2099 ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
@@ -25,11 +34,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.666666666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
-  "linkStrength": 0.421875,
+  "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.401982897776132,
+  "scale": 0.36288736930121307,
   "close": false
 }

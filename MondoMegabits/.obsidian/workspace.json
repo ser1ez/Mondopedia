@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "024ecf9b827821ee",
+        "id": "fd2a4357f5cf0fc7",
         "type": "tabs",
         "children": [
           {
-            "id": "ab608afddda1fe93",
+            "id": "787acc79522faebc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bum Legion 2099/Cards/The Tools you need.md",
+                "file": "F.E.M.A.C.U.B.E/Cards/The Agency of Small Evenly-Distributed Pools of Water.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 509.5
   },
   "right": {
     "id": "b9eaebdd2016bb20",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bum Legion 2099/Cards/The Tools you need.md",
+                "file": "F.E.M.A.C.U.B.E/Cards/The Agency of Small Evenly-Distributed Pools of Water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bum Legion 2099/Cards/The Tools you need.md",
+                "file": "F.E.M.A.C.U.B.E/Cards/The Agency of Small Evenly-Distributed Pools of Water.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bum Legion 2099/Cards/The Tools you need.md"
+                "file": "F.E.M.A.C.U.B.E/Cards/The Agency of Small Evenly-Distributed Pools of Water.md"
               }
             }
           },
@@ -174,34 +174,35 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "ab608afddda1fe93",
+  "active": "787acc79522faebc",
   "lastOpenFiles": [
-    "Bum Legion 2099/Cards/Raw Truth.md",
-    "Bum Legion 2099/Cards/Bum Army.md",
-    "Bum Legion 2099/Cards/Phonebook Armor.md",
-    "Bum Legion 2099/Cards/No Good Deed.md",
-    "Bum Legion 2099/Cards/Russian Bum Fire.md",
-    "Bum Legion 2099/Cards/Armor of Don Quixote.md",
-    "Bum Legion 2099/Cards/Badd Notification.md",
-    "Bum Legion 2099/Cards/Survival Arts.md",
-    "Bum Legion 2099/Cards/Extra Gas.md",
-    "Bum Legion 2099/Cards/King of Dogs.md",
-    "Bum Legion 2099/Cards/Tweaked.md",
-    "Bum Legion 2099/Cards/Dirty Hypo Needles.md",
-    "Bum Legion 2099/Cards/Open Manhole.md",
-    "Bum Legion 2099/Cards/The actors curse.md",
-    "Bum Legion 2099/Cards/Psychic Hobo Initation.md",
-    "Bum Legion 2099/Cards/Human Shield.md",
-    "Bum Legion 2099/Cards/Jenkem Whippet.md",
-    "Bum Legion 2099/Cards/Sky bums.md",
-    "Bum Legion 2099/Cards/TK Knight.md",
-    "Bum Legion 2099/Cards/Ditch Contraband.md",
-    "Bum Legion 2099/Cards/Phone Switcheroo.md",
-    "Bum Legion 2099/Cards/Horizontal Lynching.md",
-    "Bum Legion 2099/Cards/Taste it.md",
-    "Bum Legion 2099/Cards/Cigarette Bum.md",
-    "Bum Legion 2099/Cards/Public Computer Access.md",
-    "Bum Legion 2099/Cards/Wet Garbage Ghillie Suit.md",
+    "F.E.M.A.C.U.B.E/Cards/CIA 3 (Dark Green) The Commission of Intelligence Authorization.md",
+    "F.E.M.A.C.U.B.E/Cards/CIA 2 (Dark Blue) The Chief Investigation Agency.md",
+    "F.E.M.A.C.U.B.E/Cards/CIA 1 (Dark Red) The Central Information Army.md",
+    "F.E.M.A.C.U.B.E/Cards/Chill Hypo Pistol.md",
+    "Fake Tech/Cards/Blockchain Evangelist.md",
+    "F.E.M.A.C.U.B.E/Cards/Gay Terminator.md",
+    "F.E.M.A.C.U.B.E/Cards/Gas Station Adrenochrome.md",
+    "F.E.M.A.C.U.B.E/Cards/Gate Program.md",
+    "F.E.M.A.C.U.B.E/Cards/Reverse Universe.md",
+    "F.E.M.A.C.U.B.E/Cards/Sandy Hookers.md",
+    "F.E.M.A.C.U.B.E/Cards/CIA Child Soldier.md",
+    "F.E.M.A.C.U.B.E/Cards/Calamity Blast.md",
+    "F.E.M.A.C.U.B.E/Cards/NT Mineral Reclamation Asteroid B-73.md",
+    "F.E.M.A.C.U.B.E/Cards/Mindwipe Pill.md",
+    "F.E.M.A.C.U.B.E/Cards/Lockdown (Standard).md",
+    "F.E.M.A.C.U.B.E/Cards/Lockdown (High).md",
+    "F.E.M.A.C.U.B.E/Cards/Lockdown (Guarded).md",
+    "F.E.M.A.C.U.B.E/Cards/Lockdown (Elevated).md",
+    "F.E.M.A.C.U.B.E/Cards/Lockdown (Low).md",
+    "F.E.M.A.C.U.B.E/Cards/Food.md",
+    "F.E.M.A.C.U.B.E/Cards/The Dial-Up Men.md",
+    "F.E.M.A.C.U.B.E/Cards/Social Media Court.md",
+    "F.E.M.A.C.U.B.E/Cards/Sheeple Scanner.md",
+    "F.E.M.A.C.U.B.E/Cards/Brain Scorchers.md",
+    "F.E.M.A.C.U.B.E/Cards/FedFinder HOME ADDRESS SOCIAL SECURITY NUMBER.md",
+    "F.E.M.A.C.U.B.E/Cards/Fake Moon (Trumanned President).md",
+    "Pasted image 20231013211309.png",
     "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards",
     "Bum Legion 2099/!!!SPOILERS!!! Cards",
     "Pasted image 20231011200157.png",
@@ -220,7 +221,6 @@
     "Bum Legion 2099/Pictures/Spoiler_theToolsYouNeed_bumlegion2099.png",
     "Bum Legion 2099/Pictures/Spoiler_BumArmy_bumlegion2099.png",
     "Bum Legion 2099/Pictures/Spoiler_badnotification_bumlegion2099.png",
-    "Bum Legion 2099/Pictures/Spoiler_DitchContraband_bumlegion2099.png",
-    "F.E.M.A.C.U.B.E/Pictures/Spoiler_snizadu_femacube.png"
+    "Bum Legion 2099/Pictures/Spoiler_DitchContraband_bumlegion2099.png"
   ]
 }
