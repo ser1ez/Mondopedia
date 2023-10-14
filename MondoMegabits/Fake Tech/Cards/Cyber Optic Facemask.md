@@ -21,7 +21,7 @@
 [[Faction - Fake Tech]]
 [[R5]]
 [[Items]]
-[[armor]]
+[[Armor]]
 
 -----------
 

@@ -27,7 +27,7 @@ This helmet speaks to you in your preferred language, automatically clips & uplo
 [[Faction - Fake Tech]]
 [[R2]]
 [[Items]]
-[[armor]]
+[[Armor]]
 
 -----------
 

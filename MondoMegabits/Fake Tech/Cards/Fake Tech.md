@@ -24,6 +24,6 @@ The energy comes from Nowhere because that's where No One put it in the first pl
 [[Faction - Fake Tech]]
 [[R1]]
 [[Groups]]
-[[faction]]
+[[Faction]]
 
 #fake-tech #R1 #group #faction

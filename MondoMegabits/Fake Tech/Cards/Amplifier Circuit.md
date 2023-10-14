@@ -20,7 +20,7 @@ Often used by high-IQ Zoomers that need to *vape* 2x as much nicotine as the hig
 [[Faction - Fake Tech]]
 [[R1]]
 [[Items]]
-[[crafting material]]
+[[Crafting Material]]
 
 -----------
 

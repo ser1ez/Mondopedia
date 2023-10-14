@@ -18,6 +18,6 @@ This helmet is designed to ward off all psycho-wave emissions. While useful for 
 [[Faction - Fake Tech]]
 [[R4]]
 [[Items]]
-[[armor]]
+[[Armor]]
 
 #fake-tech #R4 #item #armor

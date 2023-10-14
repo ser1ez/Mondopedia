@@ -19,7 +19,7 @@ The heat-dispersing anti-bac mesh makes equipping creature fireproof/coldproof, 
 [[Faction - Fake Tech]]
 [[R6]]
 [[Items]]
-[[armor]]
+[[Armor]]
 
 -----------
 

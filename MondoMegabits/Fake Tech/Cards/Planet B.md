@@ -32,7 +32,7 @@ Planet B us actually a projection on a giant dinner plate floating in space.
 [[Faction - Fake Tech]]
 [[R4]]
 [[Locations]]
-[[realm]]
+[[Realm]]
 
 -----------
 

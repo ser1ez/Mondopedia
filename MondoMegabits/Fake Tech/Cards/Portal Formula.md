@@ -24,7 +24,7 @@ Thanks to today's breakthrough, all we gotta do is hop in the group teleporter, 
 [[Faction - Fake Tech]]
 [[R4]]
 [[Skills]]
-[[teleportation arts]]
+[[Teleportation arts]]
 
 -----------
 

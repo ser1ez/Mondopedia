@@ -22,7 +22,7 @@ Can be deployed to build single-use EMP Powermagnets, or **fuck up your nuts maj
 [[Faction - Fake Tech]]
 [[R6]]
 [[Items]]
-[[crafting material]]
+[[Crafting Material]]
 
 -----------
 

@@ -26,6 +26,6 @@ INFINITY 10000000000 DISHWASHERS TALKING TO EACH OTHER AND ORDERING TIDE POD REF
 [[Faction - Fake Tech]]
 [[R2]]
 [[Plot Twists]]
-[[paradigm shift]]
+[[Paradigm shift]]
 
 #fake-tech #R2 #plot-twist #paradigm-shift 

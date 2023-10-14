@@ -15,7 +15,7 @@ The extant **(master-present) timeline** is juxtaposed against other **pure/prim
 [[Faction - Fake Tech]]
 [[R2]]
 [[Tactics]]
-[[security measure]]
+[[Security measure]]
 
 -----------
 

@@ -22,7 +22,7 @@
 [[Faction - Fake Tech]]
 [[R4]]
 [[Plot Twists]]
-[[paradigm shift]]
+[[Paradigm shift]]
 
 -----------
 

@@ -29,7 +29,7 @@ Pitney Bowes GadgetGeeks don't even fully understand themselves how 20mm Hyperki
 [[Faction - Fake Tech]]
 [[R5]]
 [[Items]]
-[[ammo]]
+[[Ammo]]
 
 -----------
 

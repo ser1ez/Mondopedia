@@ -20,7 +20,7 @@ Teleporting brings an end to "your" consciousness, as you are destroyed, atom by
 [[Faction - Fake Tech]]
 [[R3]]
 [[Skills]]
-[[teleportation arts]]
+[[Teleportation arts]]
 
 -----------
 

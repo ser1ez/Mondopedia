@@ -17,7 +17,7 @@ The solution- **Crapto Currency**, FEDGOV's last-ditch attempt to regain monetar
 [[Faction - Fake Tech]]
 [[R2]]
 [[Tactics]]
-[[scam]]
+[[Scam]]
 
 -----------
 

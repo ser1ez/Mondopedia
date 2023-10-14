@@ -16,7 +16,7 @@
 [[Faction - Fake Tech]]
 [[R1]]
 [[Tactics]]
-[[scam]]
+[[Scam]]
 
 --------------
 

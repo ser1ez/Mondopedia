@@ -28,7 +28,7 @@
 [[Faction - Fake Tech]]
 [[R2]]
 [[Buffs and Debuffs]]
-[[power up]]
+[[Power up]]
 
 -----------
 

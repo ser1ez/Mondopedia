@@ -20,7 +20,7 @@ Down time is filled with 50,000 channels of E! That automatically adapt to viewe
 [[Faction - Fake Tech]]
 [[R3]]
 [[Plot Twists]]
-[[paradigm shift]]
+[[Paradigm shift]]
 
 --------------
 

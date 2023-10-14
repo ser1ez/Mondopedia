@@ -17,7 +17,7 @@ People always go back in time and try to explain uranium enrichment to Hitler. W
 [[Faction - Fake Tech]]
 [[R5]]
 [[Items]]
-[[crafting material]]
+[[Crafting Material]]
 
 --------------
 

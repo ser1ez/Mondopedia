@@ -22,7 +22,7 @@ The only non-bot actually watching their "broadcasts" is a bored NSA agent, who 
 [[Fake Tech]]
 [[R2]]
 [[Skills]]
-[[spy arts]]
+[[Spy arts]]
 
 -----------
 

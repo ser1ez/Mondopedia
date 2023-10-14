@@ -33,7 +33,7 @@ Recharged by moon-sun light aether synergy rays, fine tuned by the day/night cyc
 [[Faction - Fake Tech]]
 [[R6]]
 [[Items]]
-[[gimmick]]
+[[Gimmick]]
 
 --------------
 

@@ -27,7 +27,7 @@
 [[Faction - Fake Tech]]
 [[R1]]
 [[Items]]
-[[gimmick]]
+[[Gimmick]]
 
 -----------
 

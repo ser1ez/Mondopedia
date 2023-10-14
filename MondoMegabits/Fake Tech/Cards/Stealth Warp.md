@@ -23,7 +23,7 @@ Used in high profile assassinations, regular assassination, enthusiast assassina
 [[Faction - Fake Tech]]
 [[R3]]
 [[Skills]]
-[[teleportation arts]]
+[[Teleportation arts]]
 
 --------------
 

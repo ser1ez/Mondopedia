@@ -28,7 +28,7 @@
 [[Faction - Fake Tech]]
 [[R6]]
 [[Creatures]]
-[[pissant]]
+[[Pissant]]
 
 -----------
 

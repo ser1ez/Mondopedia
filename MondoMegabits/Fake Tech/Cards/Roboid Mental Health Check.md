@@ -20,6 +20,6 @@ IS YOUR ROBOID INSANE? CALL NOW.
 [[Faction - Fake Tech]]
 [[R1]]
 [[Tactics]]
-[[bailout]]
+[[Bailout]]
 
 #fake-tech #R1 #tactic #bailout

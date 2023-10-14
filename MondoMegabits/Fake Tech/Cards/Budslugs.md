@@ -26,7 +26,7 @@ TomoGUNchi: Kawaii! I just wanna fire these little guys at pedestrians!!!
 [[Faction - Fake Tech]]
 [[R4]]
 [[Items]]
-[[ammo]]
+[[Ammo]]
 
 -----------
 

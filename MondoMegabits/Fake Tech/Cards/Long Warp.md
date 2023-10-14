@@ -22,7 +22,7 @@ Tour de France? Do you fancy some authentic UwU Japanese cuisine my dearest? Or 
 [[Faction - Fake Tech]]
 [[R1]]
 [[Skills]]
-[[teleportation arts]]
+[[Teleportation arts]]
 
 -----------
 

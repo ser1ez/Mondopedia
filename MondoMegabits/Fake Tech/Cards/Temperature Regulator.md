@@ -26,7 +26,7 @@ Often woven into spacesuits. Found in most kitchen appliances. There's a mini-sp
 [[Faction - Fake Tech]]
 [[R1]]
 [[Items]]
-[[crafting material]]
+[[Crafting Material]]
 
 --------------
 

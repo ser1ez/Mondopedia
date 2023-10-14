@@ -22,7 +22,7 @@ Microbes & superfauna alike have an equal vote.
 [[Faction - Fake Tech]]
 [[R1]]
 [[Locations]]
-[[realm]]
+[[Realm]]
 
 -----------
 

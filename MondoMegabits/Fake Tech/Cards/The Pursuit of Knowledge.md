@@ -22,7 +22,7 @@ Between the deconstruction + reconstruction that occurs while teleporting, the "
 [[Faction - Fake Tech]]
 [[R5]]
 [[Challenges]]
-[[tutorial mission]]
+[[Tutorial Mission]]
 
 --------------
 

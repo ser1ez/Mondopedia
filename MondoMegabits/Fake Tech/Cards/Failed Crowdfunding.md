@@ -23,7 +23,7 @@ Yes you WILL need to be able to shear through a seatbelt in a burning car with t
 [[Faction - Fake Tech]]
 [[R3]]
 [[Items]]
-[[gimmick]]
+[[Gimmick]]
 
 -----------
 

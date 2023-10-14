@@ -20,7 +20,7 @@ Fake it till you believe it fully, and woud risk it all to uphold your self imag
 [[Faction - Fake Tech]]
 [[R2]]
 [[Items]]
-[[armor]]
+[[Armor]]
 
 -----------
 

@@ -27,7 +27,7 @@ Mondo Megabits are a unique and exciting NFT collectible that showcase original 
 >### Can I have access to the Obsidian Vault so I can adjust this Mondopedia to my needs?
 Of Course! Download the Latest Version here: https://github.com/ser1ez/Mondopedia I am also happy to add any mistakes you find or any other contribution really...
 >### Who created this Mondopedia and how can I reach out to him?
-Mondo_Suisse created this MondoPedia, and you can reach out to him on the [official Mondo Megabits discord](https://discord.gg/mondo-megabits). 
+Mondo_Suisse created this MondoPedia, and you can reach out to him on the Mondo Discord (check the Website for the Link)
 
 > [!attention] 
 > Mondopedia is a Fanproject and not Official. For official releases follow the Mondo Megabits Twitter, the Discord or go to the Official Website!

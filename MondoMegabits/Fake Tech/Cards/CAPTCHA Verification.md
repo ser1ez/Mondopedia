@@ -21,7 +21,7 @@ If there are no children, press:
 [[Faction - Fake Tech]]
 [[R1]]
 [[Tactics]]
-[[security measure]]
+[[Security measure]]
 
 -----------
 

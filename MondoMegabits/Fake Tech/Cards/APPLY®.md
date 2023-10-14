@@ -18,7 +18,7 @@ We are also proud to announce the **Tempest. Soundwaves. Nausea**. Two (2) featu
 [[Faction - Fake Tech]]
 [[R2]]
 [[Groups]]
-[[zaibatsu]]
+[[Zaibatsu]]
 
 -----------
 

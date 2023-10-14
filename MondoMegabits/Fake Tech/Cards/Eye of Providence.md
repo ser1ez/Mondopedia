@@ -23,7 +23,7 @@ There's a lot of benefits to being omniscient: you can get advance warning of am
 [[Faction - Fake Tech]]
 [[R4]]
 [[Skills]]
-[[tech/steam arts]]
+[[tech - steam arts]]
 
 -----------
 

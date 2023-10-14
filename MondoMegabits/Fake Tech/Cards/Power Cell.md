@@ -25,6 +25,6 @@ The Drolzel(r) 6500 GelPak(r) Power Cell (really a rebadged NorKon T6 hovertank 
 [[Faction - Fake Tech]]
 [[R2]]
 [[Items]]
-[[ammo]]
+[[Ammo]]
 
 #fake-tech #R2 #item #ammo

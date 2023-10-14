@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fd2a4357f5cf0fc7",
+        "id": "8e1185fe6d7883c7",
         "type": "tabs",
         "children": [
           {
-            "id": "787acc79522faebc",
+            "id": "0231bc06ac078b74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "F.E.M.A.C.U.B.E/Cards/World Health Organization Satellite Realm B.md",
+                "file": "_RULES/Card Subtypes/Zaibatsu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3cd4aaba449f080c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_RULES/Card Subtypes/Pissant.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ghost",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509.5
+    "width": 773.5
   },
   "right": {
     "id": "b9eaebdd2016bb20",
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "F.E.M.A.C.U.B.E/Cards/World Health Organization Satellite Realm B.md",
+                "file": "_RULES/Card Subtypes/Pissant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "F.E.M.A.C.U.B.E/Cards/World Health Organization Satellite Realm B.md",
+                "file": "_RULES/Card Subtypes/Pissant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "F.E.M.A.C.U.B.E/Cards/World Health Organization Satellite Realm B.md"
+                "file": "_RULES/Card Subtypes/Pissant.md"
               }
             }
           },
@@ -174,53 +187,53 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "787acc79522faebc",
+  "active": "37afc070f5d97832",
   "lastOpenFiles": [
-    "F.E.M.A.C.U.B.E/Cards/What to do if theres a Shooter.md",
-    "F.E.M.A.C.U.B.E/Cards/Wave Check Point.md",
-    "F.E.M.A.C.U.B.E/Cards/Water Crisis.md",
-    "F.E.M.A.C.U.B.E/Cards/Trumanning the President.md",
-    "F.E.M.A.C.U.B.E/Cards/The Museum.md",
-    "F.E.M.A.C.U.B.E/Cards/The Great Reset.md",
-    "F.E.M.A.C.U.B.E/Cards/The Femacube.md",
-    "F.E.M.A.C.U.B.E/Cards/The Dial-Up Men.md",
-    "F.E.M.A.C.U.B.E/Cards/The Agency of Small Evenly-Distributed Pools of Water.md",
-    "F.E.M.A.C.U.B.E/Cards/Terrorist Training Simulator.md",
-    "F.E.M.A.C.U.B.E/Cards/Targeted Mutations.md",
-    "F.E.M.A.C.U.B.E/Cards/Targeted Individual Database.md",
-    "F.E.M.A.C.U.B.E/Cards/Social Media Court.md",
-    "F.E.M.A.C.U.B.E/Cards/Sheeple Scanner.md",
-    "F.E.M.A.C.U.B.E/Cards/Sheeple Chipper.md",
-    "F.E.M.A.C.U.B.E/Cards/Sequencing Database.md",
-    "F.E.M.A.C.U.B.E/Cards/Schtephen Hawkin.md",
-    "F.E.M.A.C.U.B.E/Cards/Sandy Hookers.md",
-    "F.E.M.A.C.U.B.E/Cards/Robocall from the President.md",
-    "F.E.M.A.C.U.B.E/Cards/Reverse Universe.md",
-    "F.E.M.A.C.U.B.E/Cards/Resonant Mesh.md",
-    "F.E.M.A.C.U.B.E/Cards/Red Tape.md",
-    "F.E.M.A.C.U.B.E/Cards/Protection Threat.md",
-    "F.E.M.A.C.U.B.E/Cards/Power Plant Meltdown.md",
-    "F.E.M.A.C.U.B.E/Cards/Poison Pen.md",
-    "F.E.M.A.C.U.B.E/Cards/NT Mineral Reclamation Asteroid B-73.md",
+    "_RULES/Card Subtypes/feath in cap.md",
+    "_RULES/Card Subtypes/Actually useful.md",
+    "Fake Tech/Cards/Xbox Live Vision Camera (HACKED).md",
+    "Fake Tech/Cards/Wireless Vaccine+-.md",
+    "Fake Tech/Cards/Waypoint Database.md",
+    "Fake Tech/Cards/Verbal Word Bullets.md",
+    "Fake Tech/Cards/Utopia - Scrupulous Automation.md",
+    "Fake Tech/Cards/Understandroid.md",
+    "Fake Tech/Cards/Time Machine.md",
+    "_RULES/Card Subtypes/X-Factor.md",
+    "Fake Tech/Cards/Time Cube.md",
+    "Fake Tech/Cards/TIA Wave Projector.md",
+    "Fake Tech/Cards/The Pursuit of Knowledge.md",
+    "Fake Tech/Cards/The Living House.md",
+    "Fake Tech/Cards/The Algorithm.md",
+    "Fake Tech/Cards/Temperature Regulator.md",
+    "Fake Tech/Cards/Teleport Tracker.md",
+    "Fake Tech/Cards/Super Computer 1999.md",
+    "_RULES/Card Subtypes/Lackey.md",
+    "Fake Tech/Cards/Stealth Warp.md",
+    "Fake Tech/Cards/Startup Guy.md",
+    "Fake Tech/Cards/Social Media Mogul's Beard.md",
+    "_RULES/Card Subtypes/Relic.md",
+    "Fake Tech/Cards/Skillbo Bowlins (Quad-Ought Gauge).md",
+    "Fake Tech/Cards/Shitfan.md",
+    "Fake Tech/Cards/Rogue Implant.md",
+    "mondo_logo-white.webp",
+    "Pasted image 20231013211309.png",
+    "favicon-128x128.png",
+    "tech",
     "Thin Blue Whine",
     "Rainbow Riot",
     "_Additional Information",
     "Artists & Devs/Untitled",
     "_RULES/Card Subtypes",
-    "Pasted image 20231013211309.png",
     "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards",
     "Bum Legion 2099/!!!SPOILERS!!! Cards",
     "Pasted image 20231011200157.png",
     "Pasted image 20230502131200.png",
     "Bum Legion 2099/Videos/0120.mp4",
     "Bum Legion 2099/Videos/0120.mp4.opdownload",
-    "Bum Legion 2099/Videos/0119.mp4",
     "_Additional Information/Artists & Devs/media/jetneptune.png",
     "Bum Legion 2099/Pictures/Spoiler_themanwiththegoldenvoice_bumlegion2099.png",
     "Bum Legion 2099/Pictures/Spoiler_RawTruth_bumlegion2099.png",
     "Bum Legion 2099/Pictures/Spoiler_theToolsYouNeed_bumlegion2099.png",
-    "Bum Legion 2099/Pictures/Spoiler_BumArmy_bumlegion2099.png",
-    "Bum Legion 2099/Pictures/Spoiler_badnotification_bumlegion2099.png",
-    "Bum Legion 2099/Pictures/Spoiler_DitchContraband_bumlegion2099.png"
+    "Bum Legion 2099/Pictures/Spoiler_BumArmy_bumlegion2099.png"
   ]
 }

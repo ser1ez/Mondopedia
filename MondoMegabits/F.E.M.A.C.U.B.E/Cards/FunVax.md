@@ -21,8 +21,8 @@ Clean Slate: Wipe the table of all tactics, challenges, debuffs, buffs, plot twi
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R1]]
 [[Buffs and Debuffs]]
-[[Meggastat]]
+[[Neggastat]]
 
 --------------
 
-#FEMACUBE #R1 #Debuff #Meggastat
+#FEMACUBE #R1 #Debuff #Neggastat

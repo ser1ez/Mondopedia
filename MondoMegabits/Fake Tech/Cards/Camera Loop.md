@@ -22,7 +22,7 @@ B&E. Intelligence gathering. Dirty panties retrieval. Saddam-Ops.
 [[Faction - Fake Tech]]
 [[R3]]
 [[Skills]]
-[[tech/steam arts]]
+[[tech - steam arts]]
 
 -----------
 

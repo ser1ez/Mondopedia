@@ -17,7 +17,7 @@ Number Flubber: Use advanced magi-matic Aljebra & Calcuusl to rig the numbers in
 [[Faction - Fake Tech]]
 [[R3]]
 [[Skills]]
-[[magic arts]]
+[[Magic arts]]
 
 -----------
 

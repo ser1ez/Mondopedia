@@ -22,6 +22,6 @@ Is that an international marketing decision passed down to the art department? S
 [[Faction - Fake Tech]]
 [[R3]]
 [[Tactics]]
-[[scam]]
+[[Scam]]
 
 #fake-tech #R3 #tactic #scam 

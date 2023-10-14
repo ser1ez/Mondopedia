@@ -16,7 +16,7 @@
 [[Faction - Fake Tech]]
 [[R3]]
 [[Tactics]]
-[[security measure]]
+[[Security measure]]
 
 -----------
 

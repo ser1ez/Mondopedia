@@ -24,7 +24,7 @@ Atop CLASSIFIED Mountain in CLASSIFIED nests a treasure trove of teleportation d
 [[Faction - Fake Tech]]
 [[R3]]
 [[Skills]]
-[[teleportation arts]]
+[[Teleportation arts]]
 
 --------------
 

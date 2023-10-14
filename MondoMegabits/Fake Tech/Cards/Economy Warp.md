@@ -17,7 +17,7 @@ Economy warps are good for... economy folk. Those who can't afford public telepo
 [[Faction - Fake Tech]]
 [[R2]]
 [[Skills]]
-[[teleportation arts]]
+[[Teleportation arts]]
 
 -----------
 
