@@ -18,6 +18,8 @@ Ragist Prison Break: Before Caged Ragist can be put into play, you must destroy 
 ♦ Leaves victims psychologically scarred-Ragist yells 'Hitler-Rape-Chink-—' 
 ♦ Entire enemy team stunned for two 2 turns (D.U.D.E: Fellas Rising, Psychos, Aliens and Daytona Indians are Immune).
 
+----------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R6]]
 [[Creatures]]

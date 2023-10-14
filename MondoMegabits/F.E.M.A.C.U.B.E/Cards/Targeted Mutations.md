@@ -29,6 +29,8 @@ Named after Dr. Horatio Nigger, Ph-D the original discoverer of this rare afflic
 
 Deformation Mutation Compensation: This item may only be used on F.E.M.A.C.U.B.E.³ creatures. Add five (5) points to any stat and subtract five (5) points to any stat for three (3) turns
 
+-----------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R1]]
 [[Items]]

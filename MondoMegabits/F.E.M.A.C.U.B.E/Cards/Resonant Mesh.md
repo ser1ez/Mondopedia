@@ -18,7 +18,9 @@ The Force (Magnetic): Resonant Mesh swings 40,000 lbs of scrap metal at a target
 Envelop Reincorce: Envelop a creature card, adding it to Resonant Mesh's mass. 
 ♦ Only works WITH >15% metal content (Robots, cybords, girls with piercings etc.) 
 ♦ Resonant Mesh STR Boosted by one (1) point for every enveloped creature 
-♦ When Resonant Mesh is destroyed, all enveloped creatures are freed with full HP.
+♦ When Resonant Mesh is destroyed, all enveloped creatures are freed with full HP
+
+------------
 
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R5]]

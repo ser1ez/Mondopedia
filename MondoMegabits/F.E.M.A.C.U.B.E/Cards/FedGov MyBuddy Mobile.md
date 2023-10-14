@@ -19,6 +19,8 @@ You Got A Friend In Me: Steal an enemy creature's phone and respond 'No' to his 
 ♦ Target creature now receives 3X DMG from F.E.M.A.C.U.B.E.³ attacks. 
 ♦ If creature survives, they have to apologize to their MyBuddy and promise to never be a bad friend like that- never ever again.
 
+----------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R4]]
 [[Tactics]]

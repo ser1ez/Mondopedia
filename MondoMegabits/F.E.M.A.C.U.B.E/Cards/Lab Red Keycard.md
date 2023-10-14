@@ -22,6 +22,8 @@ Technology at least 100 years ahead of CIA 3(Dark Green), Experimental drug chip
 - [ ] Search through entire enemy deck, plunder up to five (5) cards, add to your hand.
 - [ ] Make your enemy shuffle, he's your little bitch now.
 
+---------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R6]]
 [[Items]]

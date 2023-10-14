@@ -15,6 +15,8 @@ Good Mind Games: five (5) turns after Targeted Individual Database is put into p
 
 ♦ Your best friends are watching you perform-uplifting +2 boost to STR
 
+---------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R2]]
 [[Agendas]]
