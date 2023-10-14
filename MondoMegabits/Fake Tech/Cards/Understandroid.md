@@ -11,8 +11,10 @@
 **Best Hole**: UNDERSTANDROID Post-Session Calming Tube (ASS)
 
 When humans fall a little short in the understandment department, Understandroid jumps on the job with gusto. As the world's best and probably first computerized listener, Understandroid can hear frequencies as low as 1 hz. Understandroid is not programmed for any violent acts (YET), but has several exploitable beta features that can make him a valuable team member in Megabits Kombat. 
-***
-## Let's. Talk. About, Your. CHILD-HOOD?: 
+
+--------------
+
+Let's. Talk. About, Your. CHILD-HOOD?: 
 Understandroid pulls an enemy creature aside, and gets to the bottom of why they feel the way they do. Distracted for two (2) turns. 
 * Distracted enemies take a bonus 25 Gotcha DMG when hit.
 
@@ -23,10 +25,14 @@ Understandroid pulls an enemy creature aside, and gets to the bottom of why they
 **E-lectric. Shock.:** Short fuse. 
 * 75 DMG. There's a loose wire in the Calming Tube.
 
+--------------
+
 [[Faction - Fake Tech]]
 [[R1]]
 [[Creatures]]
 [[Footsoldier]]
+
+--------------
 
 #fake-tech #R1 #creature #footsoldier
 

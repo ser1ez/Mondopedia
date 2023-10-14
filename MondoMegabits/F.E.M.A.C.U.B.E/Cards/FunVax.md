@@ -23,4 +23,6 @@ Clean Slate: Wipe the table of all tactics, challenges, debuffs, buffs, plot twi
 [[Buffs and Debuffs]]
 [[Meggastat]]
 
+--------------
+
 #FEMACUBE #R1 #Debuff #Meggastat

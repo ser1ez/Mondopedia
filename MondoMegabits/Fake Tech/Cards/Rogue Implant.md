@@ -3,7 +3,7 @@
 > [!help] 
 > "I'd like the Plus model please. The one with the yo-yo." 
 
-***
+
 **Manufactured By**: PhozeComm Innovations 
 **Retail Price**: $89,695.95 
 **Model Name**: PhozeArm Robotool-10TM 
@@ -19,12 +19,18 @@ Little do World Citizens (WCs) know: the PhozeArm has a critical security weakne
 > [!important] 
 > ///YES, IT'S FLASHEY AND SICK AS FUCCKK. AND YES, IT WOULD MAKE YOU PERFECT. BUT SOMEONE MIGHT JUST USE IT AGAINST YOU ONE DAY. 
 
+--------------
+
 **Rouge Implant:** I- can't br-breathe! 
 * Kill any **Fake Tech** or **Tantillo Systems** creature instantly.
+
+--------------
 
 [[Faction - Fake Tech]]
 [[R2]]
 [[Items]]
 [[Chromeware]]
+
+--------------
 
 #fake-tech #R2 #item #chromeware 

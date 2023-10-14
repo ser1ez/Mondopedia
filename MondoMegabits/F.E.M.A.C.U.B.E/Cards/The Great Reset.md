@@ -10,9 +10,13 @@ You will look like your coworkers. if the pain becomes a distraction, simply inc
 
 The Great Reset: (Nearly) Full wipe: xenoestrogen efficacy 99.4%. Opponent must discard all cards in hand and remove all cards in play except for ONE (1) card of his choice.
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R5]]
 [[Agendas]]
 [[Divine]]
+
+--------------
 
 #FEMACUBE #R5 #agenda #divine 

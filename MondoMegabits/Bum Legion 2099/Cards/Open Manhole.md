@@ -10,9 +10,13 @@ Fecal Egress: Use Open Manhole to dodge any one attack.
 ♦ All other creatures take 25 damage. "The dookie, it burns!" 
 ♦ Team PinkBean cannot use this tactic because they're scared of a little doo, pussies. We live for this shit
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R1]]
 [[Tactics]]
 [[Bailout]]
+
+--------------
 
 #bum-legion-2099 #R1 #tactic #bailout 

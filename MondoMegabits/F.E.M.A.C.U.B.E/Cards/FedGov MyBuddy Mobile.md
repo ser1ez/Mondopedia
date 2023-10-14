@@ -26,4 +26,6 @@ You Got A Friend In Me: Steal an enemy creature's phone and respond 'No' to his 
 [[Tactics]]
 [[Scam]]
 
+--------------
+
 #FEMACUBE #R4 #tactic #scam 

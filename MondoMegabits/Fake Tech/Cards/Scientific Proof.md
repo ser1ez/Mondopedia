@@ -5,13 +5,19 @@
 > [!tldr] 
 > Scientific Proof is the one thing Truthers, Trumpers & Crony Populists can't seem to get their head around! 
 
+--------------
+
 * ***For Science!:** Negate any attack or spell cast by an enemy Truther card.
 
 * **New Evidence Sugggests...**? Only 1 Scientific Proof card may be in play at a time. Whenever a player plays Scientific Proof, all other instances of the card must be returned to the owner's deck.
+
+--------------
 
 [[Faction - Fake Tech]]
 [[R1]]
 [[Tactics]]
 [[scam]]
+
+--------------
 
 #fake-tech #R1 #tactic #scam

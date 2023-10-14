@@ -12,9 +12,13 @@ Tweaked: Just a puff. One creature may now attack twice in one turn, for two (2)
 
 ♦ "Iron Man, Batman, Hulk, Tony Stark, Deadpool—he's my favorite. I'm literally just like Deadpool kid." Muttered in a nervous shaky pattern as you walk out of Wal-Mart with a shoplifted Deadpool Snapback and a bag of Jack Links, then you get in a heated dispute with some cigarette bitch that's nodding off on your bicycle.
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R2]]
 [[Buffs and Debuffs]]
 [[Boost]]
+
+--------------
 
 #bum-legion-2099 #R2 #buff #boost 

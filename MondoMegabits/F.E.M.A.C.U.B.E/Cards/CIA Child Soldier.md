@@ -13,9 +13,13 @@ Temper Tantrum: FedGov snipers watch his back on the playground.
 
 Gun Control When?: If CIA Child Soldier is defeated via gunfire. opponent loses two (2) Narrative points, you may add Gun Control Crisis Boy to play instantly
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R4]]
 [[Creatures]]
 [[Footsoldier]]
+
+--------------
 
 #FEMACUBE #R4 #creature #footsoldier 

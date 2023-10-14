@@ -3,7 +3,7 @@
 > [!caution] 
 > "Honey I think the washing machine is horny..." 
 
-***
+
 A future where you have to hire a private military contractor to guard every appliance in your home just to not get catfished by your microwave's Twitter alt.
 
 Russia brute-forced the US Department of Banks' password "SHEWILLWIN2016" using a cunning botnet cyberattaq that combined the processing power of twenty billion BlueTooth speakers. Where did the twenty billion BlueTooth speakers come from you might ask? Well, turns out we dug our own graves with that one--they're leftovers from the memory-holed NYC In-Yo-Communi-T VOTE LOUD program, where they were given away along with $15 TIDAL cards to voters and vaccine recipients. The architects of this program originally envisioned that the speakers would be used for education (?) but in practice the only thing VOTE LOUD achieved was ensuring that all forms of public transpo now consistently maintain a decibel level equivalent to a space shuttle launch.
@@ -15,9 +15,13 @@ What's that honey? You want me to get rid of my sweet Alexa? Okay sure Cynthia, 
 > [!check] 
 > "Local divorce attorneys? Don't worry, sir, I'm always a step ahead. Drafting papers now." 
 
-### INFINITY 10000000000 DISHWASHERS TALKING TO EACH OTHER AND ORDERING TIDE POD REFILLS. AND IT ONLY COSTS #3,009,123,140 PER DAY TO OPERATE.
-***
+INFINITY 10000000000 DISHWASHERS TALKING TO EACH OTHER AND ORDERING TIDE POD REFILLS. AND IT ONLY COSTS #3,009,123,140 PER DAY TO OPERATE.
+
+-----------
+
 **Autonomous Registration:** When drawing new cards, you may choose to skip any that aren't Fake Tech cards.
+
+-----------
 
 [[Faction - Fake Tech]]
 [[R2]]

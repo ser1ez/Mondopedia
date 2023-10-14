@@ -22,4 +22,6 @@ One of the simplest ways to calm an Active Shooter down without making they/them
 [[Information]]
 [[Canon Event]]
 
+--------------
+
 #FEMACUBE #R2 #infomashun #canon-event

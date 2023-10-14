@@ -17,9 +17,13 @@ LOCKDOWN_DELTA:LOW: Security standards are set to autopilot, your ‘personal of
 ♦ Block the next attack from F.E.M.A.C.U.B.E.³ ot Thin Blue Whine. OR 
 ♦ Next attack to F.E.M.A.C.U.B.E.³ or Thin Blue Whine deals +50 DMG, as well as destroys all currently held items.
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R1]]
 [[Tactics]]
 [[Security measure]]
+
+--------------
 
 #FEMACUBE #R1 #tactic #security-measure  

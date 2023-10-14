@@ -12,9 +12,13 @@ The remainder of the WORDBRIEF is inscribed in Bruydac: Operations - Sequence II
 
 This card must be played concurrently with Bruydac: Operations - Sequence I
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R1]]
 [[Challenges]]
 [[Mission]]
+
+--------------
 
 #FEMACUBE #R1 #challenge #mission 

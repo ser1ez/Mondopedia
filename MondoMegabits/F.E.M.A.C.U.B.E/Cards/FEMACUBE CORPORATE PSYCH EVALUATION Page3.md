@@ -12,9 +12,13 @@ Your HEAD OF PERSONNEL will periodically add certifications based on your weekly
 
 To conclude, mark in the blood box and sign below. Sign in PEN, not PENCIL. Station Paperwork Policy violations are subject to fines not exceeding 100,000 Chinese money. F E M A C U B E C O R P O R A T E C E R T I F I C A T I O N S SIGN HERE            (in PEN, not PENCIL.)
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R3]]
 [[Information]]
 [[Possibly Fake Disinfo]]
+
+--------------
 
 #FEMACUBE #R3 #infomashun #possibly-fake/disinfo 

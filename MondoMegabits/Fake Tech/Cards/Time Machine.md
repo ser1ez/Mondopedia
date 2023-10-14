@@ -10,13 +10,19 @@
 * Until you pay the cost to play, you cannot win the game. 
 * If you forget to pay the cost to play--even if you make it through the rest of the game, and your opponent forgets that you forgot to pay the cost to play, and both of you agree that you are the winner--if at any future date either of you remembers that you forgot to pay the cost to play, you will then retroactively be declared the loser. 
 
+--------------
+
 **Clockmaster:** Choose an effect with a duration measured in turns. 
 * Roll a d6, call the result Clyde. 
 * You may make that effect last Clyde turns instead of its normal duration. Deterministic Fallacy: Begin a filibuster-style rant of stuff you plagiarized from TEDx Talks and pop-sci YouTubers. You may play any cards and take any actions you so choose, so long as the stream of jargon and buzzwords continues unabated. Deterministic Fallacy ends when you stutter, hesitate for more than a couple seconds, or repeat yourself. This move may only be used once per game.
+
+--------------
 
 [[Faction - Fake Tech]]
 [[R4]]
 [[Buffs and Debuffs]]
 [[X-Factor]]
+
+--------------
 
 #fake-tech #R4 #buff #X-Factor

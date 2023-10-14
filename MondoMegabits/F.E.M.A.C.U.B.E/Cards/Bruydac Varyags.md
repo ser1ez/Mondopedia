@@ -8,9 +8,13 @@ The most dangerous of these clans is the Varyags- an expansionist, warlike peopl
 
 Their rulers- known as “Yags”- seldom last longer than a single Terran year before being killed by challengers or assassins. For this reason, negotiating with the Varyag will be difficult. It may prove easier to neutralize them via genomic weapon.
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R1]]
 [[Information]]
 [[Cosmology]]
+
+--------------
 
 #FEMACUBE #R1 #infomashun #cosmology 

@@ -8,9 +8,13 @@ The Xin “Dynasty,” Bruydac’s oldest clan, inhabits the hilly tropical zone
 
 The Xin are farmers and herders who oversee an impressively diverse assortment of xeno animals and plants. What they cannot create themselves, they trade animal powders and extracts for at Göln, oftentimes very profitably. Xin diplomacy is a balancing act but will almost certainly prove easier to navigate than diplomacy with their counterparts
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R2]]
 [[Information]]
 [[Cosmology]]
+
+--------------
 
 #FEMACUBE #R2 #infomashun #cosmology 

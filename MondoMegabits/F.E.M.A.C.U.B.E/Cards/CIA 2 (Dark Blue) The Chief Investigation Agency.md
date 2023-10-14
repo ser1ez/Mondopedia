@@ -12,9 +12,13 @@ Login_Success: You gain entry into the CIA 2 e-Portal, and have access to a hoar
 ♦ Can view your opponent's hand until this The Hacker is destroyed. 
 ♦ Enemy FEMACUBE creatures deal 2X DMG to The Hacker
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R2]]
 [[Locations]]
 [[Realm]]
+
+--------------
 
 #FEMACUBE #R2 #location #realm 

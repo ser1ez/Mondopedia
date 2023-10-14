@@ -8,12 +8,17 @@ It is rather uncommon knowledge that supernatural entities have distinct odors. 
 > [!attention] 
 > REQUIRES: [[GhostTec™ Certification Card]]
 
-***
+-----------
+
 * **Ghosts Fart Too:** Prevent the next revive your enemy attempts. You smelled it coming a mile away and deployed a GhostTec Spirit Suppressor Field just in time.
+
+-----------
 
 [[Faction - Fake Tech]]
 [[R4]]
 [[Items]]
 [[Tool]]
+
+-----------
 
 #fake-tech #R4 #item #tool 

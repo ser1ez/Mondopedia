@@ -22,4 +22,6 @@ Just As Planned: Choose any opponent-controlled creature. That creature murders 
 [[Plot Twists]]
 [[Bad News]]
 
+--------------
+
 #FEMACUBE #R1 #plot-twist #bad-news 

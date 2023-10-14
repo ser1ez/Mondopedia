@@ -14,9 +14,13 @@ Have you ever been convicted of a space felony? Circle the best answer: Hell Yea
 
 I Know You So Well: Peek at enemy’s next card to be drawn.
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R1]]
 [[Information]]
 [[Possibly Fake Disinfo]]
+
+--------------
 
 #FEMACUBE #R1 #infomashun #possibly-fake/disinfo

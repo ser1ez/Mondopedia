@@ -7,9 +7,13 @@
 iVerdict: Turn an enemy creature into a lambasted quirky social untouchable. 
 ♦ Creature is removed from play and placed at bottom of deck. Shuffle. D.U.D.E.: Fellas Rising cards are immune to this tactic. Their feeds are sports only; it's impossible for Fellas to be truly controversial
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R3]]
 [[Tactics]]
 [[Scam]]
+
+--------------
 
 #FEMACUBE #R3 #tactic #scam 

@@ -21,9 +21,13 @@ Hunting Party: A small unit of Scorchers advance toward your enemy.
 ♦ 50 Self DMG to Brain Scorchers; 
 ♦ Future attacks do 2X DMG
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R3]]
 [[Creatures]]
 [[Footsoldier]]
+
+--------------
 
 #FEMACUBE #R3 #creature #footsoldier 

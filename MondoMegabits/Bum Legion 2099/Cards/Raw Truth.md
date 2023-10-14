@@ -15,10 +15,13 @@ A pan flutes flutters as he's whisked off on a cloud of magic.
 **Unappetizing**: All food-based cards in your opponent's hand instantly are removed from play. 
 ♦ "I don't know, just lost my appetite.
 
+--------------
 
 [[Faction - Bum Legion 2099]]
 [[R3]]
 [[Plot Twists]]
 [[Boobie Trap]]
+
+--------------
 
 #bum-legion-2099 #R3 #plot-twist #boobie-trap 

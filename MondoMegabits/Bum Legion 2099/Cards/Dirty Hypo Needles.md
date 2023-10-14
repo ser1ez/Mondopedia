@@ -9,9 +9,13 @@ Heads: If heads, enemy creature notices your bio trap last second. Close one!
 Tails: ENemy creature contracts AIDS : ) ..and it goes full blown fast………none of that Magic Johnson fancy stuff this is the REAL OG GAY CANCER. 
 It’s really a tragedy. 150 HP per turn. Can be cured by “AIDS GAY SPECIALIST” creature
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R4]]
 [[Plot Twists]]
 [[Boobie Trap]]
+
+--------------
 
 #bum-legion-2099 #R4 #plot-twist #boobie-trap 

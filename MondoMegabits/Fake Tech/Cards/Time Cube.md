@@ -19,16 +19,22 @@ Confined in utter secrecy- the Teory of Everything- hidden from the world by the
 > * Effective & Efficient theorizing about moon and planets
 > * Decimels 
 
-***
+
 Recharged by moon-sun light aether synergy rays, fine tuned by the day/night cycle of our humble terra. If you try to debunk my theory about aether tuning you literally can't debunk it no matter how hard you try because I've already thought about it and did all relevant math regarding the subject and hold seniority because I have taught phys-ed. for over a decade.
-***
+
+--------------
+
 **The Golden_Hours**: If this card is played from Left 11AM -Right 1PM, cap all enemy creatures' INT at 4, maximum. After 1pm, they can become almost as smart as you again.
 
 **Moonlit//Opus**: If Time Cube is played during a full moon, you may revive three (3) creatures from your graveyard.
+
+--------------
 
 [[Faction - Fake Tech]]
 [[R6]]
 [[Items]]
 [[gimmick]]
+
+--------------
 
 #fake-tech #R6 #item #gimmick 

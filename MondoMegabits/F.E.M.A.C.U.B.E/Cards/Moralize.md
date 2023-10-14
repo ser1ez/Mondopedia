@@ -13,9 +13,13 @@ If heads, Target creature is persuaded to no longer attack or use abilities whic
 If tails, Target creature loses one (1) turn for re-typing argument several times before posting. 
 If coin lands perfectly on its edge (S.U.C.C.E.S.S.+): your argument was so great that target gives up and joins your side
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R2]]
 [[Skills]]
 [[Spy arts]]
+
+--------------
 
 #FEMACUBE #R2 #skill #spy-arts 

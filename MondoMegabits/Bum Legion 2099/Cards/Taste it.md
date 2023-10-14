@@ -11,12 +11,13 @@ Once the target is saying the expected 'No thanks, friend- I got it under contr-
 On the third turn, target creature commits suicide after leaving a long note about how he can't stop seeing that split tongue, the look on your face when you shoved the blade deep inside. 
 How he stopped going to work and stopped thinking about anything but dying and seeing you in hell. Sad
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R5]]
 [[Tactics]]
 [[Bailout]]
 
-#bum-legion-2099 
-#R5 
-#tactic 
-#bailout 
+--------------
+
+#bum-legion-2099 #R5 #tactic #bailout 

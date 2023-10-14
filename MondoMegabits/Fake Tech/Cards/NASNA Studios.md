@@ -2,7 +2,7 @@
 
 > *"LIVE Astronauts Hunt Alien Dinos in Mars 2 Crater 24/7 Stream - NASNA" <6,759,641 watching>*
 
-***
+
 **SHNASA Space Productions LLC** DBA NASNA Studios (a Saban Capital Group company).
 
 Like all tenured and trusted scientific organizations, NASNA Studios (a proud Marvel Studios partner) is a special FX studio/amusement park/money laundering powerhouse. A typical day at NASNA Studios (a Council on Foreign Relations Bronze Member) <u>goes something like this:</u>
@@ -14,11 +14,15 @@ A manager comes out of the NASNA Gift Shop and makes a stink about skull fragmen
 > [!danger] 
 > Authentic Mars Grown Apples, Tastes like Space! <$58 for 2> 
 
-**UberEats Pays You $55 Million for a Cutaway Ad on the NASNA Venus Surface Diamond Hunting Live Stream:** *Tax free.*
+**UberEats Pays You $55 Million for a Cutaway Ad on the NASNA Venus Surface Diamond Hunting Live Stream:** *Tax free
+
+-----------
 
 [[Fake Tech]]
 [[R3]]
 [[Locations]]
 [[Zone]]
+
+-----------
 
 #fake-tech #R3 #location #zone 

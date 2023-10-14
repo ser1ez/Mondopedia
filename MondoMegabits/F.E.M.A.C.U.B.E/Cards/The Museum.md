@@ -15,9 +15,13 @@ History's Tourist: Watch a 'real' Mayan sacrifice through one way glass, the sky
 ♦ Food/Trash items have no negative effects 
 ♦ For each Bum Legion 2099 creature in play, one (1) FEMACUBE³ creature in your hand gains 25 HP.
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R3]]
 [[Locations]]
 [[Real Estate]]
+
+--------------
 
 #FEMACUBE #R3 #location #real-estate 

@@ -11,11 +11,16 @@
 ♦ "Yeah man I've been really deep into heroin for like 8 months now." 
 
 ---------------------------------------- 
+
 Trip Hazard: 2 last used enemy creatures will trip over the failed actor's pathetic drug-addled body laying in the middle of the street, spraining the opponents leg for two (2) turns- STUNNED.
+
+--------------
 
 [[Faction - Bum Legion 2099]]
 [[R6]]
 [[Plot Twists]]
 [[Boobie Trap]]
+
+--------------
 
 #bum-legion-2099 #R6 #plot-twist #boobie-trap 

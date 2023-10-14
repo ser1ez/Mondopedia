@@ -3,7 +3,6 @@
 > [!quote] 
 > *"In the future, protective helmets are seen as fashionable. Wearing knee and elbow pads will actually get you laid."* 
 
-***
 **Cecil is your A.I. bestie**, his brain is your brain. At this point you might as well just name yourself Cecil. Cecil? Me?
 
 This helmet speaks to you in your preferred language, automatically clips & uploads life highlights, and makes relationship decisions for you seamlessly. The Kevlar(r) weave makes getting shot by a cop in the head a mere nuisance-no longer fatal. Everyone's favorite feature 'AutoCecil' allows you to take a step back, nap a little and rest. Cecil takes over your gross motor function and does chores while you HypnoWatch skate vids under your cerebral blanket.
@@ -15,15 +14,21 @@ This helmet speaks to you in your preferred language, automatically clips & uplo
 > [!note] 
 > In conclusion, this helmet will control your life for the better. 
 
+-----------
+
 **SmartHat_:** Equip Cecil. It's so cool, he has a name. He's my friend. 
 * +75 HP armor buff; 
 * Immune to being instakilled/headshotted
 * Max INT while helmet is equipped;
 * Ability to removeview Sean White BMX sessions from the past & future.
 
+-----------
+
 [[Faction - Fake Tech]]
 [[R2]]
 [[Items]]
 [[armor]]
+
+-----------
 
 #fake-tech #R2 #item #armor 

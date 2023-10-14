@@ -12,9 +12,13 @@ Ruled by an order of proto-religious “knights,” the feudal Lehns-Vultans are
 This code, the Thalmud, dictates—or at least provides rationalization for—nearly all civic and governmental action. 
 Negotiation with the Lehns-Vult is possible, but they are reportedly defensive and cautious to a degree bordering upon absurdity
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R3]]
 [[Information]]
 [[Cosmology]]
+
+--------------
 
 #FEMACUBE #R3 #infomashun #cosmology 

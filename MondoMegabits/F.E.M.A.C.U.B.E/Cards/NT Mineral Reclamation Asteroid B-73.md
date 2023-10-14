@@ -16,9 +16,13 @@ a new type of Space Weed grown exclusively on Nebular Reticulum Colony 3c-i, app
 Neil Armstronk: While this location is in play, all F.E.M.A.C.U.B.E.³, Aliens, and D.U.D.E.: Fellas Rising cards have an unlimited supply of Loud Dope to smoke. 
 ♦ +50 HP per turn for above listed factions
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R6]]
 [[Locations]]
 [[Zone]]
+
+--------------
 
 #FEMACUBE #R6 #location #zone 

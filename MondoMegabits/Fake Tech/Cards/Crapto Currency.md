@@ -5,15 +5,20 @@ The FEDGOV **BuckBreakingChain** was invented in 2034 following the Great Reset 
 > *"Everyone knows the best form of money is your net worth in impossible-to-transport palettes and easy-to-steal nuggets, because everyone has a loading dock and a security team at their house." - Ludwig von Mises*
 
 It was trivially easy, of course, for the Dept. of Witches, Wizardry, and Taxation (all gov't agencies now being Harry Potter themed) to get their mitts on the wealth-they simply had their data scientists deleted the elements Ag and Au from science. Next on the agenda, however, was taking down Bitcoin. This could be harder than it seems...
-***
+
+-----------
+
 The solution- **Crapto Currency**, FEDGOV's last-ditch attempt to regain monetary control in the face of global crisis. All **Crapto Currency** is stored on CrapApp. To spur adoption, **Crapto Currency** is proudly partnered with **UberEats** and **GrubHub**, offering 50% off at checkout with yout first Crapto payment. Somehow, these enticing offers still aren't enough to get dark web criminals, BLM terror cells, and NorKon defectors to ditch their crumbly old BTC and ape into the crypto with crappitude: Crapto. The fight to legitimize Crapto is ongoing.
 
 > [!danger] 
 > 50% Off: Enemy deals half DMG next attack. 
 
+-----------
 [[Faction - Fake Tech]]
 [[R2]]
 [[Tactics]]
 [[scam]]
+
+-----------
 
 #fake-tech #R2 #tactic #scam 

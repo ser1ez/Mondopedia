@@ -12,9 +12,13 @@ In order to play this card you must also have Bruydac: Operations - Sequence I i
 
 F.E.M.A.C.U.B.E.³ CLEAN HORIZON: Discard both Bruydac: Operations cards. All non-F.E.M.A.C.U.B.E.³ creatures on both sides of play are destroyed
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R5]]
 [[Challenges]]
 [[Mission]]
+
+--------------
 
 #FEMACUBE #R5 #challenge #mission 

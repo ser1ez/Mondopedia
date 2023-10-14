@@ -27,4 +27,6 @@ Envelop Reincorce: Envelop a creature card, adding it to Resonant Mesh's mass.
 [[Creatures]]
 [[Nemesis]]
 
+--------------
+
 #FEMACUBE #R5 #creature #nemesis 

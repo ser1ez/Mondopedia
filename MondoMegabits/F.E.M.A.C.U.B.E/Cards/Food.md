@@ -11,9 +11,13 @@ Side effect: Reduced peripheral vision; altered sense of smell; metallic taste s
 
 May also be trash
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R1]]
 [[Items]]
 [[Food - Trash]]
+
+--------------
 
 #FEMACUBE #R1 #item #Food/Trash 

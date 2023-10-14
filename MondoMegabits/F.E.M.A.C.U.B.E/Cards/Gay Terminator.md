@@ -12,9 +12,13 @@ For the purposes of receiving debuffs/penalties, Gay Terminator morphs back into
 
 Faulty Homo Scanner: Gay Terminator may, at will, use his faulty homo-scanning targeting reticule to change the faction of any card in play to Rainbow R!ot. You’ve been targeted for spermination
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R2]]
 [[Creatures]]
 [[Nemesis]]
+
+--------------
 
 #FEMACUBE #R2 #creature #nemesis 

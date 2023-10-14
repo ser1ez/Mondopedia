@@ -12,9 +12,13 @@ M.O.V.: Confiscate an enemy creature's liver and sell it to the Fob-Fentee.
 ♦ -3 PSI; 
 ♦ +125 HP to one of your creatures
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R2]]
 [[Items]]
 [[Tool]]
+
+--------------
 
 #FEMACUBE #R2 #item #tool 

@@ -8,9 +8,13 @@ We can play God, in our Playhouse—The House of Science—A.K.A. God's (New) Ho
 
 Transmutation (Evolutionary Fantasy Draft): Swap a creature currently in play with a different creature from your deck.
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R4]]
 [[Skills]]
 [[Skill arts]]
+
+--------------
 
 #FEMACUBE #R4 #skill #skill-arts 

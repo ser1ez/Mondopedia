@@ -10,11 +10,17 @@ Originally developed by HyperKlush BevLabs(r), the [[GhostTec™]] Goop Vial is 
 > [!note] 
 > This card can only be played if owner also possesses the [[GhostTec™]] [[ GhostTec™ Certification Card |Cerification Card]]. 
 
+-----------
+
 **Goop Extraction:** If your opponent controls a ghost or paranormal type card, destroy it along with the [[GhostTec™]] Goop Vial and convert the resulting explosion of ethereal energy into Ghost Food (heals 5 HP on friendly ghost or paranormal card of your choice).
+
+-----------
 
 [[Faction - Fake Tech]]
 [[R4]]
 [[Items]]
 [[Trash]]
+
+-----------
 
 #fake-tech #R4 #item #Food/Trash

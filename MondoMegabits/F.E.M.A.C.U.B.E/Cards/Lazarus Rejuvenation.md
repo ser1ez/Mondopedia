@@ -18,4 +18,6 @@ Unholy Gravebirth: Use this card to ‘clone’ one of your F.E.M.A.C.U.B.E.³ c
 [[Skills]]
 [[Skill arts]]
 
+--------------
+
 #FEMACUBE #R1 #skill #skill-arts 

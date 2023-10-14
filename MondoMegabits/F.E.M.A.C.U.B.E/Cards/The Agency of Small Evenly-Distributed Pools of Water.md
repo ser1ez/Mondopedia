@@ -16,10 +16,14 @@ These Puddles Aren't Uniform. Re-Sort: Make your opponent do some pointless reor
 ♦ Hey, actually let's sort by SWG. 
 ♦ Reshuffle deck.
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R1]]
 [[Groups]]
 [[Cabal]]
+
+--------------
 
 #FEMACUBE #R1 #group #cabal 
 

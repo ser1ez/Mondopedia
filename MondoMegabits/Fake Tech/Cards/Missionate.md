@@ -3,7 +3,6 @@
 > *"Omg ur such an angelllll girl. Spazzz."*
 
 -Fellabook comment on Missionate photo
-***
 
 **Missionate** is a $2.99 App Store application that inserts you into a fake photo with an African child (real child). The app presents you with a series of customizable sliders to control:
 
@@ -15,7 +14,8 @@
 
 *3% of proceeds go to Toby2012, a new paradigm in child warfare.*
 
-***
+-----------
+
 **I Saved The World:** I finally did it, I ended world hunger. 
 * One friendly creature gets a Missionate post on Fellabook; 
 * Affected creature acquires 10 SWG, +10 Social Famous Points; 
@@ -23,9 +23,13 @@
 * 'TB2 last summer, can't wait for this year's mission, I'll see you soon Kimbe
 * -$2.99
 
+-----------
+
 [[Faction - Fake Tech]]
 [[R2]]
 [[Buffs and Debuffs]]
 [[power up]]
+
+-----------
 
 #fake-tech #R2 #buff #power-up

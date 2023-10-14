@@ -13,9 +13,13 @@ These kompromat UHD photos are filed for blackmail and political trolling in his
 
 Executive Order: After holographic FedGov CIA fake alien extortion & intimidation, the President issues and emergency order; effective instantly. Ban one of the following card types from use [Buffs, Skills, Tactics or Plot Twists] for the next ten (10) turns
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R5]]
 [[Plot Twists]]
 [[Bad News]]
+
+--------------
 
 #FEMACUBE #R5 #plot-twist #bad-news

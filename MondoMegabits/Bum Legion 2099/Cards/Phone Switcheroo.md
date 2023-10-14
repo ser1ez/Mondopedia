@@ -9,9 +9,13 @@ Then, say you're getting a call. Suddenly reach in your pocket for your phone bu
 --------------------- 
 **Sacrifice, Phone Switcheroo:** Sacrifice a creature via fatal gunshot. Scar all all opponent creatures, giving them a sight they can't unsee. All enemy creatures deal half DMG for 2 turns
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R1]]
 [[Tactics]]
 [[Scam]]
+
+--------------
 
 #bum-legion-2099 #R1 #tactic #scam 

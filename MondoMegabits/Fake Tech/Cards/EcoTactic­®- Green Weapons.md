@@ -12,12 +12,17 @@
 > * **Dr. Browner's FreshSprayPlus (Lavender Capsaicin)** is organic & fair trade. Support the rainforest and protect yourself from PROTEST_PERVS with one easy-to-use product. Can spray pepper puffs accurately at up to 30 feet- right into the eyes/dickhole of any would-be victim-shamer rape-crimer.
 > 
 
-***
+-----------
+
 **Mostly Peaceful Beatdown:** Bust some heads, then toss the evidence over the side of the bridge with no littering guilt. Incapacitate any Whypeepo creature for two (2) turns; The Hive/Intelligentsia creatures cannot be harmed by The Thin Blue Whine creatures for ten (10) turns.
+
+-----------
 
 [[Faction - Fake Tech]]
 [[R1]]
 [[Tactics]]
 [[Ability]]
+
+-----------
 
 #fake-tech #R1 #tactic #ability 

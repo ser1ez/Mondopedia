@@ -8,13 +8,19 @@ Congratulations! You are now [[GhostTect™]] Certified. You are now legally abl
 > [!note] 
 > This certification requires renewal every three (3) months. Renewal fees vary by state (avg. $4,500). 
 
+-----------
+
 **I'm an Expert:** Convince a creature with INT < 6 that there's a little ghost inside their head that will kill them if they're not naked. 
 * Creature cannot equip any items or armor; 
 * -4 PSI
+
+-----------
 
 [[Faction - Fake Tech]]
 [[R1]]
 [[Items]]
 [[Tool]]
+
+-----------
 
 #fake-tech #R1 #item #tool

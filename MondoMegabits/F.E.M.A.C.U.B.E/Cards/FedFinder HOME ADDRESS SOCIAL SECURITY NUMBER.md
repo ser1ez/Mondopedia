@@ -15,9 +15,13 @@ FedFinder QuikkkSearch: Ask your enemy if they have a specific card.
 ♦ If they have it, it is detained for the rest of the game. 
 ♦ If opponent has multiple copies, only one (1) is affected
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R5]]
 [[Items]]
 [[Chromeware]]
+
+--------------
 
 #FEMACUBE #R5 #item #chromeware 

@@ -15,9 +15,13 @@ FedGov FEMACUBE secret agents dispatch the terror threat with compact HKs (trust
 
 Bag Dad: So long as two F.E.M.A.C.U.B.E.³ or WarGodz creatures are in play, your Narrative counter is increased by one (1)
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R1]]
 [[Plot Twists]]
 [[Bad News]]
+
+--------------
 
 #FEMACUBE #R1 #plot-twist #bad-news 

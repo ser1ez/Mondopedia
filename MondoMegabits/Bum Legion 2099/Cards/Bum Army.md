@@ -12,9 +12,13 @@ You can't scare stupid.
 **History:** Surviving bums pass the torch. 
 ♦ So long as one (1) Bum Legion 2099 creature that was present for the anthem is still alive, all Bum Army creatures still get a +50 HP health buff
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R1]]
 [[Groups]]
 [[Cabal]]
+
+--------------
 
 #bum-legion-2099 #R1 #group #cabal 

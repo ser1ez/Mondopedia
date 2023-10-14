@@ -24,4 +24,6 @@ Dog The Dog Hunter: Instant kill on dogs, 2X DMG on dog-owning creatures. The do
 [[Creatures]]
 [[Footsoldier]]
 
+--------------
+
 #FEMACUBE #R3 #creature #footsoldier  

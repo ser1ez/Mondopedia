@@ -11,7 +11,8 @@ It's not all sunshine and Lambos with Lush, though. He has a <u>secret problem</
 > [!faq] 
 > (Lush is hopelessly addicted to huffing paint) 
 
-***
+-----------
+
 **Tokenize Haters:** Usable once. Lushsux Dix can tokenize a 5 INT or lower creature, selling him on OpenSea for 250 HP. Tokenized creature is unable to act without paying hefty gas fees.
 
 **Huff Hardcore:** If you have the Spray Paint Can item, Lush can use it to get really, really (really) high - borfing down a full fat cap blast. Incredible buff. 
@@ -21,9 +22,13 @@ It's not all sunshine and Lambos with Lush, though. He has a <u>secret problem</
 **No, U Sux:** Bodyslam attack. 
 * 500 DMG to target, 50 Self DMG to Lushsux Dix because tailbone (coccyx) hit curb weirdly.
 
+-----------
+
 [[Faction - Fake Tech]]
 [[R6]]
 [[Creatures]]
 [[Nemesis]]
+
+-----------
 
 #fake-tech #R6 #creature #nemesis

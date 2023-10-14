@@ -15,9 +15,13 @@ Medically Chill: Shoot someone uncool dead in they fo’ head.
 ♦Bestows the following status effects: Enfeebled. Addicted to Shooting Myself: Administer a ChillX shot right in your neck. 
 ♦ Choose one creature to be incapacitated for five (5) turns. While incarcerated, this creature takes NO DMG from any source, no matter how powerful (even nuclear weapons and/or end-of-Universe type cataclysms). “ChillX. Hypodermic Vibes
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R4]]
 [[Items]]
 [[Weapon]]
+
+--------------
 
 #FEMACUBE #R4 #item #weapon 

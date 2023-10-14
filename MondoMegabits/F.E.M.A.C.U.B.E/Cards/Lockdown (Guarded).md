@@ -16,9 +16,13 @@ LOCKDOWN_DELTA:GUARDED: Check-point!
 ♦ Choose a creature with less than 5 INT or STR to stall at a FedGov PeaceCheck Docu-sign eStation for (2) turns. Stunned 
 ♦ Any creatures that consumed drugs in the past 3 turns are arrested and shock prodded, 200 DMG. When busted, enemy must show their hand and place all items at bottom of deck
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R2]]
 [[Tactics]]
 [[Security measure]]
+
+--------------
 
 #FEMACUBE #R2 #tactic #security-measure 

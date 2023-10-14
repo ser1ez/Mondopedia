@@ -13,10 +13,14 @@ Occupied by three warring native tribes (they appear to all be the same species)
 
 Locational Homogenization: This card can act as a clone of any F.E.M.A.C.U.B.E.³ LOCATION card and mimic its effects
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R4]]
 [[Locations]]
 [[Realm]]
+
+--------------
 
 #FEMACUBE #R4 #location #realm 
 

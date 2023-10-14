@@ -16,12 +16,17 @@
 > [!question] 
 > It's been 48 hours, shouldn't this be wearing off? 
 
-***
+-----------
+
 **Go All night**: A creature on Cialamin gains one (1) extra action per female creature currently in play (females themselves cannot take Cialamin but robots, androids, demons, etc., can).
+
+-----------
 
 [[Faction - Fake Tech]]
 [[R2]]
 [[Items]]
 [[Drug]]
+
+-----------
 
 #fake-tech #R2 #item #drug 

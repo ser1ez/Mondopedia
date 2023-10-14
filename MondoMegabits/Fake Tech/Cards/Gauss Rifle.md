@@ -2,7 +2,7 @@
 
 > *"Wait. There was a house there. There was a house there before I shot.. Wh-.. Where is the house."*
 
-***
+
 * **Manufacturer:** Black Ops II Weapons Group LLC 
 * **Weight:** 8.2 lbs. <3.72 kg> 
 * **Ammunition:** TungTec!TM 'Block-Flattener' Tungsten Killbolts <315,000 grain>
@@ -17,14 +17,20 @@ Being attacked while the **Gauss Rifle** is equipped results in ====INSTANT DEAT
 > [!danger] 
 > CAPABLE OF FIRING IN SPACE.  
 
+-----------
+
 **Nuclear Armistice Loophole//:** Bust off. 
 * 1600 DMG; 
 * Can only be equipped by creatures with 7 or higher STR; 
 * Upon firing, 200 DMG to self and +6 SWG.
 
+-----------
+
 [[Faction - Fake Tech]]
 [[R5]]
 [[Items]]
 [[Weapon]]
+
+-----------
 
 #fake-tech #R5 #item #weapon 

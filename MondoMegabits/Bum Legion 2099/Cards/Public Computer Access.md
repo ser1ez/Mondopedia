@@ -8,9 +8,13 @@ Down the row, there are homeless people using every computer in the public libra
 
 2 INT to any creature. If you're brave enough to travel to the nearest public library and ask for "Remi-Anne" at the front desk, you may also draw any Gun card from your deck
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R6]]
 [[Buffs and Debuffs]]
 [[Boon]]
+
+--------------
 
 #bum-legion-2099 #R6 #buff #boon

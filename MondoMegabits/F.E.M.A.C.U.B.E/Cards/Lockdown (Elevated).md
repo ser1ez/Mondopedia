@@ -15,9 +15,13 @@ Consequences of “ELEVATED”-level lockdown:
 LOCKDOWN_DELTA:ELEVATED: Lawful search and seizure. 
 ♦ Search enemy hand for items. Destroy one, keep one for yourself (You’re addicted to stealing items from perps mid-shakedown) Unregistered Tech, ELEVATED:RISK: Enemy may not enter new FAKE TECH cards into play until one tactic card is sacrificed
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R3]]
 [[Tactics]]
 [[Security measure]]
+
+--------------
 
 #FEMACUBE #R3 #tactic #security-measure 

@@ -23,9 +23,13 @@ Sit down class, we're here to learn the holistic arts of Survival and we have go
 
 Now You're Really Bummin': All Bum Legion creatures you control gain +1 on all stats as long as this card is in play
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R2]]
 [[Skills]]
 [[Lifestyle arts]]
+
+--------------
 
 #bum-legion-2099 #R2 #skill #lifestyle-arts 

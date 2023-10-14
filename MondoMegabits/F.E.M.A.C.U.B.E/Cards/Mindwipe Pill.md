@@ -10,9 +10,13 @@ Additional chemicals fill target with vague shame. Disguised as a Work-Alert pil
 
 Reverse Psychosis: If this item is used on a creature suffering from Mental Affliction or other retardation-type debuff, they are reverted to Normal/Good mental status.
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R1]]
 [[Items]]
 [[Drug]]
+
+--------------
 
 #FEMACUBE #R1 #item #drug 

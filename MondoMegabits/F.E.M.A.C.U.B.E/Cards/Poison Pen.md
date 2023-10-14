@@ -13,9 +13,12 @@ Sign Here: Inject an enemy creature with Poison Pen.
 Can I Borrow That?: Loan an ITEM card to your opponent.. But do not tell him that the Poison Pen is hidden underneath! Opponent suffers from brain damage (lose one (1) turn)
 
 -------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R1]]
 [[Items]]
 [[Gimmick]]
+
+--------------
 
 #FEMACUBE #R1 #item #gimmick  

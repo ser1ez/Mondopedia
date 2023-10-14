@@ -16,9 +16,13 @@ LOCKDOWN_DELTA:HIGH: Put an illegal crime warrant for the arrest, persecution, a
 ♦ 2X DMG when attacking this creature; 
 ♦ Opponent may himself choose to surrender the creature in exchange for the Good Samaritan Instacash Reward. Opponent gains one (1) Funding Point, card is destroyed
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R4]]
 [[Tactics]]
 [[Security measure]]
+
+--------------
 
 #FEMACUBE #R4 #tactic #security-measure 

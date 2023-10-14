@@ -22,4 +22,6 @@ Good Mind Games: five (5) turns after Targeted Individual Database is put into p
 [[Agendas]]
 [[Futile]]
 
+--------------
+
 #FEMACUBE #R2 #agenda #futile 

@@ -10,9 +10,13 @@ He's from a bygone era. He has Dyna-AIDS. He's featured in several viral Chim-To
 Putrid Mange: these dogs stink BAD, their fur is oily, there's piss everywhere- any creature cards in the surrounding spaces are poisoned. 
 ♦ -50 HP per turn for three (3) turns
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R4]]
 [[Creatures]]
 [[Figurehead]]
+
+--------------
 
 #bum-legion-2099 #R4 #creature #figurehead 

@@ -17,9 +17,13 @@ building bridges out of marshmallows and toothpicks in rooms with no windows, re
 
 Fast Track: +50% INT and -50% SWG to all cards in play. Both players must discard one (1) creature of their choice (accidental 2C-B + ketamine overdose)
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R3]]
 [[Plot Twists]]
 [[Paradigm shift]]
+
+--------------
 
 #FEMACUBE #R3 #plot-twist #paradigm-shift 

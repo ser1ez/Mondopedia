@@ -22,4 +22,6 @@ Achilles Heel: While immune to gunfire, this card is critically weak against MON
 [[Creatures]]
 [[Revolutionary]]
 
+--------------
+
 #FEMACUBE #R3 #creature #revolutionary 

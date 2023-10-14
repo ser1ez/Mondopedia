@@ -20,9 +20,13 @@ D6 roll:
 ♦ D3-4 False (Black) Flag: Fabricate a terror attack, distracting all enemy creature cards for one (1) turn (equivalent to 20 years in realtime). Never forget this terror attack. If either player forgets the attack, they forfeit the game. 
 ♦ D5-6 Legalize Something: "If they continue to X while my Y citizens suffer, we WILL give them street signs!" -- Legalize something (anything) totally because it's a good idea and not a cheap reparation to a group of whiners who are probably deaf! +5 SW
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R3]]
 [[Creatures]]
 [[Revolutionary]]
+
+--------------
 
 #FEMACUBE #R3 #creature #revolutionary 

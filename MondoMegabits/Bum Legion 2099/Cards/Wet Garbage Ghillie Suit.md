@@ -16,9 +16,13 @@ That's where the 'wet' in Wet Garbage Ghillie Suit comes in. Users often dip the
 ♦ +50 HP, light armor. 
 ♦ Ghillie Suit falls apart after 5 turns. Food item cards can be destroyed and converted to camo materials to extend the life of this item by one turn per item
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R4]]
 [[Items]]
 [[Armor]]
+
+--------------
 
 #bum-legion-2099 #R4 #item #armor 

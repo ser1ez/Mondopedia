@@ -12,9 +12,13 @@ Game Over: Lose it all.
 
 ♦ Give up all item cards, and then die
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R6]]
 [[Plot Twists]]
 [[Bad News]]
+
+--------------
 
 #bum-legion-2099 #R6 #plot-twist #bad-news 

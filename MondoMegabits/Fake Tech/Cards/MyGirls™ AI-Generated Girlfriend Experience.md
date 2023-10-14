@@ -9,7 +9,8 @@ Our new line of body spray is jacked to the gills with CIA nanomacros designed t
 > [!important] 
 > MyGirls will never whisper in your ear instructions for creating ammonium nitrate explosives. 
 
-***
+-----------
+
 **Convincing Enough:** Attach this item to any friendly creature capable of accepting ChromeWare with INT < 5. Creature is granted a permanent happiness buff (raise STR by 3 points).
 
 **The MyGirls MyGirlfriend Widget:** Remotely install MyGirls MyGirlfriend Widget onto any opponent creature with either NRG < 4 or Groogle Grlrass equipped.
@@ -17,6 +18,8 @@ Our new line of body spray is jacked to the gills with CIA nanomacros designed t
 -   Place a GF marker on the target card (use a soda can tab or similar piece of garbage--this is now the opponent creature's MyGirlfriend). The MyGirlfriend will hang out with and have simulated sex with the creature;
 -   Afflicted creature may not attack or defend after the activation of a MyGirlfriend girlfriend simulacrum entity;
 -   **Creature may not hang out with his friends or have fun.**
+
+-----------
 
 [[Faction - Fake Tech]]
 [[R2]]

@@ -19,10 +19,14 @@ LOCKDOWN_DELTA:STANDARD: Batch arrest of suspicious sheeple.
 ♦ Every turn, flip a coin. If tails, a creature of your enemy's choice is released early. 
 ♦ Confiscate and destroy all firearm item cards
 
+--------------
+
 
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R5]]
 [[Tactics]]
 [[Security measure]]
+
+--------------
 
 #FEMACUBE #R5 #tactic #security-measure 

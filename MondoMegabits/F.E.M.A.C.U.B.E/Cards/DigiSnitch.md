@@ -22,4 +22,6 @@ Counter-Telling: If opponent has FedGov MyBuddy Mobile in hand, they may tattle 
 [[Plot Twists]]
 [[Bad News]]
 
+--------------
+
 #FEMACUBE #R2 #plot-twist #bad-news 

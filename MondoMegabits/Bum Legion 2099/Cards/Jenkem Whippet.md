@@ -20,9 +20,13 @@ When It Hits: Creature gets high and has to sit down for 3 turns.
 ♦ +1 Visceral Thrill 
 ♦ -3 IN
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R6]]
 [[Items]]
 [[Drug]]
+
+--------------
 
 #bum-legion-2099 #R6 #item #drug 

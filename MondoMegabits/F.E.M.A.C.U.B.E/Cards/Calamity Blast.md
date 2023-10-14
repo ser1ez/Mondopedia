@@ -13,9 +13,13 @@ Calamity Before the Storm: Energy shockwave. The Old Ones made a mistake in the 
 ♦ 75 DMG to all of your own. You love doing all this fucking math. Oh yeah it also 
 ♦ turns kiddo creatures into vegumtahbles
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R4]]
 [[Items]]
 [[Weapon]]
+
+--------------
 
 #FEMACUBE #R4 #item #weapon 

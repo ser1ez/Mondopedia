@@ -12,9 +12,13 @@ The driver is screaming now; he tries the handle but it just breaks off. We see 
 
 Want This 20?: Sting a target creature with 400 wasps. 500 DMG
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R6]]
 [[Tactics]]
 [[Scam]]
+
+--------------
 
 #bum-legion-2099 #R6 #tactic #scam 

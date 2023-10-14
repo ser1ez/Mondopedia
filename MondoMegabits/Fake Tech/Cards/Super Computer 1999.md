@@ -9,7 +9,9 @@
 > A sentient computer which represents itself visually as a shireframe facsimile of its creator. 
 
 In late 1979, computer genius Thomas Walnuts envisioned a plan to create the world's largest commercial supercomputer after seeing a magazine ad he liked for some unrelated product. By the time he had finished Super Computer 1999 (twenty years later, in 1999), it was largely obsolete--however Sinclair Research still deemed his tape-optimized compression algorithm valuable, and stole it. This creature is their bastardized build (Sinclair lacked the tender touch of the computer's original creator).
-***
+
+--------------
+
 **Dual Processors:** When paired with another Fake Tech creature, gain a trippy electro damage boost! 
 * 2x DMG boost for tethered creature.
 
@@ -17,9 +19,13 @@ In late 1979, computer genius Thomas Walnuts envisioned a plan to create the wor
 * 75 DMG to all enemy creatures; because r*cism hurts us all. 
 * +200 additional damage against Team RinkBean/The Hive cards.
 
+--------------
+
 [[Faction - Fake Tech]]
 [[R3]]
 [[Creatures]]
 [[Lackey]]
+
+--------------
 
 #fake-tech #R3 #creature #lackey

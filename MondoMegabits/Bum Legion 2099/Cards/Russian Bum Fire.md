@@ -11,9 +11,13 @@ Bottle containing nitro-glicerin, alcohol and bum piss. Highly flammable improvi
 ♦ 50 burn DMG next turn. 
 ♦ If attacked creature is already poisoned, the toxic piss elixer will overhaul their immune system and provide an instant kill
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R2]]
 [[Items]]
 [[Weapon]]
+
+--------------
 
 #bum-legion-2099 #R2 #item #weapon 

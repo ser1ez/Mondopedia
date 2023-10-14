@@ -17,9 +17,13 @@ Circle the answer that best suits you: I am a terrorist with terrorist bombs. I 
 
 Infomashunal Superiority: Search deck for any Infomashun card, add to hand. Shuffle
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R2]]
 [[Information]]
 [[Possibly Fake Disinfo]]
+
+--------------
 
 #FEMACUBE #R2 #infomashun #possibly-fake/disinfo 

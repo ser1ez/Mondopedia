@@ -21,14 +21,19 @@ Planet B us actually a projection on a giant dinner plate floating in space.
 > [!caution] 
 > (There is no liftoff). 
 
-***
+-----------
+
 **Liftoff**: Once this card is drawn, all cards with odd numbered rarity rankings get launched into space (destroyed). Each player may draw half of the number of cards lost. 
 * All players draw new cards. You wanted this. This is good. 
 * View enemy's newly drawn hand - choose two (2) cards to remove.
+
+-----------
 
 [[Faction - Fake Tech]]
 [[R4]]
 [[Locations]]
 [[realm]]
+
+-----------
 
 #fake-tech #R4 #location #realm 

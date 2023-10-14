@@ -25,4 +25,6 @@ Ragist Prison Break: Before Caged Ragist can be put into play, you must destroy 
 [[Creatures]]
 [[Nemesis]]
 
+--------------
+
 #FEMACUBE #R6 #creature #nemesis 

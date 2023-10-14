@@ -10,9 +10,13 @@ I Am Become Vampyr: You dose.
 ♦ 2X DMG for next attack 
 ♦ Drawback: You are now Vampyr. The night beckons, you wane as the moon does. For the first time ever you can understand the chatter of the bats at nyght. You resp'nd. An unholy union forms, the thyrst grows evermore as your former self turns weary. Dread incarnyte, you doth know the eve at which you Feast draws near. When the fang doth sink, there is no turnyng back. You become the nyght. You own the dark'ness.
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R4]]
 [[Items]]
 [[Product and or Service we enjoy]]
+
+--------------
 
 #FEMACUBE #R4 #item #Product-And/or-Service-We-Do-Enjoy™ 

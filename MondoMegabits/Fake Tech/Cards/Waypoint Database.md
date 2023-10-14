@@ -10,7 +10,8 @@ Atop CLASSIFIED Mountain in CLASSIFIED nests a treasure trove of teleportation d
 > [!success] 
 > You are the taker. 
 
-***
+--------------
+
 **I Hold the Keys**: Any teleportation moves/pranks are foiled by your omniscient failsafe. Deal 200 DMG to any hostile creature attempting a warp.
 
 **What I Now Know**: Any creatures who have teleported in the last five (5) turns have their dox dropped on PortalForums, leading to intense paranoia and reluctance to teleport again in the future. Incredible psychological debuff. 
@@ -18,9 +19,13 @@ Atop CLASSIFIED Mountain in CLASSIFIED nests a treasure trove of teleportation d
 * -50 Max HP 
 * Can no longer attack Tantillo Systems creatures.
 
+--------------
+
 [[Faction - Fake Tech]]
 [[R3]]
 [[Skills]]
 [[teleportation arts]]
+
+--------------
 
 #fake-tech #R3 #skill #teleportation-arts 

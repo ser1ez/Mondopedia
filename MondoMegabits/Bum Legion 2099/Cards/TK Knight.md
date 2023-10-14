@@ -17,9 +17,13 @@ Shortsword Sweep: Slash! *YEEOOOOOOOOchhh!!!*
 ♦ 50 DMG, stuns for one turn. 
 ♦ Target creature will come down with tetanus in 60 days. Red Solo Hans Solo, Beat Your Cup Stacking PR: 3.4 seconds, holy shit. You did it!
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R4]]
 [[Creatures]]
 [[Footsoldier]]
+
+--------------
 
 #bum-legion-2099 #R4 #creature #footsoldier 

@@ -32,9 +32,13 @@ Origin: "According to Fob-Fentee news site SinoBang, the Taliban has been traini
 
 ♦ Decade 7: Jerome’s mastermind plan: capture and infect the opponent’s schools, churches, intelligentsia, literature, pop culture, and incrementally bend them away from the opponent’s ideology and towards that of the player. For so long this plan seemed futile, preposterous, but now it has yielded some fruit. Smile, comrade, for today you take the reins of the most powerful force the world has ever seen-the Grand Monkey Army! (All non-robot enemy creatures currently in play switch to your side.)
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R2]]
 [[Creatures]]
 [[Footsoldier]]
+
+--------------
 
 #FEMACUBE #R2 #creature #footsoldier 

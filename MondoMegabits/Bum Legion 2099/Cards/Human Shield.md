@@ -11,9 +11,13 @@ Then go ahead!
 
 Enchant a Bum Legion 2099 creature card with Human Shield. Enchanted creature can now shield itself with a different creature of your choice when attacked. If host creature is destroyed, place this card at the bottom of your deck
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R3]]
 [[Skills]]
 [[Skill arts]]
+
+--------------
 
 #bum-legion-2099 #R3 #skill #skill-arts 

@@ -17,9 +17,13 @@ A TATTLE will be added to your PSR-10 Permanent Security Record (See:PSR-10)
 
 Infraction: inundate and troll an enemy card with a barrage of pointless paperwork that they must fill out immediately in triplicate or they’ll lose their job and car. -3 PSI to target and wastes their turn. Enemy may refuse paperwork for 150 DMG punishment and item confinscation via FEMACUBE³ LOAN OFFICER. Can’t Read. Sorry: Bum Legion 2099 faction are immune to paperwork.
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R1]]
 [[Skills]]
 [[Spy arts]]
+
+--------------
 
 #FEMACUBE #R1 #skill #spy-arts 

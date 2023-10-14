@@ -15,4 +15,6 @@ Insider Knowledge: Have your opponent fan out their hand (the back of the cards 
 [[Skills]]
 [[Skill arts]]
 
+--------------
+
 #FEMACUBE #R5 #skill #skill-arts 

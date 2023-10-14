@@ -13,7 +13,9 @@ Age: 36, looks 27. Usually this is a good thing.
 **Ailments:** Epilepsy. Has tonsil stones but po one will tell him. 
 **Famous Beefs:** Some racist scumbag on Twitter. Sean reported this dumb dumb for weeks, but the troll pever got banned. Why? 
 **Subscriptions:** Bespoke PostTM , NYTimes.com paywall
-***
+
+--------------
+
 **Report User?**: Pick an epemy creature card to report. 
 * If creature is Whypeepo or [[Faction - D.U.D.E - FELLAS RISING]] faction, ban instantly (kill). All other creatures take 100 Snitching DMG.
 
@@ -27,9 +29,13 @@ Age: 36, looks 27. Usually this is a good thing.
 > [!warning] 
 > (*Beware, if attacked with 'strobe light' Startup Guy will convulse for 25 turns.) 
 
+--------------
+
 [[Faction - Fake Tech]]
 [[R2]]
 [[Creatures]]
 [[Figurehead]]
+
+--------------
 
 #fake-tech #R2 #creature #figurehead

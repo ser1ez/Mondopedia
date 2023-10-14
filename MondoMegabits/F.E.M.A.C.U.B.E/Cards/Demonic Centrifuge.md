@@ -10,9 +10,13 @@ Bad Deal: You sold your soul for a nice house and car… The house looks like a 
 
 ♦ -4 SW
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R1]]
 [[Items]]
 [[Chromeware]]
+
+--------------
 
 #FEMACUBE #R1 #item #chromeware 

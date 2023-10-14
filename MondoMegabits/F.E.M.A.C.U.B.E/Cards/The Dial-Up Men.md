@@ -8,9 +8,13 @@ This is the call you don’t want to get late at night.
 No-Call List: Keep dialing random numbers on your phone until you eventually get someone to pick up. Initiate a bomb threat until the police arrive at your house. 
 You win the game
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R6]]
 [[Groups]]
 [[Clique]]
+
+--------------
 
 #FEMACUBE #R6 #group #clique

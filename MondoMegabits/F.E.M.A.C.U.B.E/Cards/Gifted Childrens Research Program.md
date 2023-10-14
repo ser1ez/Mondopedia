@@ -20,4 +20,6 @@ Full Potential Realization Event (FPRE): Once the child's GIFTED potential is fu
 [[Agendas]]
 [[Futile]]
 
+--------------
+
 #FEMACUBE #R2 #agenda #futile 

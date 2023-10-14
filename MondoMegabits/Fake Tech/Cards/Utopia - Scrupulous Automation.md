@@ -9,14 +9,19 @@ Down time is filled with 50,000 channels of E! That automatically adapt to viewe
 > [!attention] 
 > ***Society has been Integrated ~ is everywhere and nowhere ~ is inert ~ is orbiting itself. 
 
-***
+--------------
+
 **Procedurally-Generated Housewives of Orange County:** S18E119v4: Melissa Cleans House 
 * Stun all enemy Whypeepoo, The Hive and Team Pinkbean creatures for three (3) turns; 
 * Distribute Morsel food item to all friendlies, healing 25 HP each.
+
+--------------
 
 [[Faction - Fake Tech]]
 [[R3]]
 [[Plot Twists]]
 [[paradigm shift]]
+
+--------------
 
 #fake-tech #R3 #plot-twist #paradigm-shift 

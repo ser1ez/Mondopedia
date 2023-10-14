@@ -22,4 +22,6 @@ The League Of Legends: Log 2000+ hours in the game.
 [[Tactics]]
 [[Ability]]
 
+--------------
+
 #FEMACUBE #R1 #tactic #ability 

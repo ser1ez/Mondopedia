@@ -8,9 +8,13 @@ Made it to Page 486: Would you look at that?!
 ♦ Take no DMG from firearms. Can deflect 3 ballistic attacks before falling apart. 
 ♦ Concurrent fire DMG lasts twice as long while you have Phonebook Armor equipped
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R4]]
 [[Items]]
 [[Weapon]]
+
+--------------
 
 #bum-legion-2099 #R4 #item #weapon 

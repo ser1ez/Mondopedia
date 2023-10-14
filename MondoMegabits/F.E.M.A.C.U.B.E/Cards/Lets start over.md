@@ -15,4 +15,6 @@ Do-Over: If you are only five (5) turns into the game, you can play this card to
 [[Skills]]
 [[Spy arts]]
 
+--------------
+
 #FEMACUBE #R2 #skill #spy-arts 

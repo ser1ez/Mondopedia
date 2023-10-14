@@ -15,4 +15,6 @@ Annoying Shit: As long as this card remains active on the field, you can punch y
 [[Skills]]
 [[Spy arts]]
 
+--------------
+
 #FEMACUBE #R2 #skill #spy-arts 

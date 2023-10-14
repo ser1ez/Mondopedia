@@ -5,13 +5,15 @@
 **Vyco (Jack) and D.I.N. (Jill)** can pilot an electric vehicle, identify song lyrics, and consistently beat the Chutes and Ladders world champion, so they/them is literally a superintelligence more important or complex than any ape-brained human. Provided, of course, that the egghead caretakers remember to properly clean and lubricate the Intelligent Radiowave Link (IRL) which keeps the robotic hemispheres in contact.
 
 To keep the ultrabrain focused on molecular simulations and 16th dimensional trig, and not petty squabbles/minutia/philosophy, the scientists feed they/them a steady supply of NUKE, an Adderall-like compound derived from **FLUX-G**.
-***
+
 > [!question] 
 > What is their true purpose? 
 
 
 ====To sift through history's wreckage & repair the broken timeline, in a futile attempt to un-do The Event. They are at war with The Micros and with South Korea.====
-***
+
+-----------
+
 **Bicameral_Mind:** When you play this card, it becomes two (2) creatures. You may use toilet paper and coins if you do not have multiple copies of this card and/or official Mondo Megabits stat tokens (they look like red and blue jellybeans-you should have some in your starter pack SWAG SABRESTACHE). Stack coins on top of toilet paper to represent stats. Each piece of toilet paper gets exactly half the stats shown on this card.
 
 **Lost in the Sauce:** When either Vyco (Jack) OR [D.I.N.] (Jill) uses a Drug item, they both enjoy the effects, and for double (2x) the duration.
@@ -20,9 +22,13 @@ To keep the ultrabrain focused on molecular simulations and 16th dimensional tri
 
 **Bad, Together**: Copper wire theft attack. 300 DMG if both Vyco (Jack) and [D.I.N.] (Jill) are still alive.
 
+-----------
+
 [[Faction - Fake Tech]]
 [[R4]]
 [[Creatures]]
 [[Nemesis]]
+
+-----------
 
 #fake-tech #R4 #creature #nemesis 

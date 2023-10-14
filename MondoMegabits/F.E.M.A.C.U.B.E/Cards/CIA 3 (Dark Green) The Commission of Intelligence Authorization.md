@@ -12,9 +12,13 @@ SSN Retcon: You access CIA 3's Dark-Green level citizen database via a bitcoin p
 
 OR Deed Transfer: Utilize SSN swapping to reclaim a target property/location card. If not useful, property can be sold/destroyed for .04 BTC (+350 HP
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R4]]
 [[Locations]]
 [[Realm]]
+
+--------------
 
 #FEMACUBE #R4 #location #realm 

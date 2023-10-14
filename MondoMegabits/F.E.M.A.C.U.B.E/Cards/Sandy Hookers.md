@@ -10,9 +10,13 @@ Examples: Most of the Sandy Hook actors. Adam Lambda. His new stepmom.
 
 They’re Everywhere: Once the initial cost to play has been paid, create unlimited duplicate instances of Sandy Hookers on the battlefield at a cost of one (1) Funding Point per
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R2]]
 [[Creatures]]
 [[Patsy]]
+
+--------------
 
 #FEMACUBE #R2 #creature #patsy 

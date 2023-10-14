@@ -17,4 +17,6 @@ The POTUS can “pardon” any one (1) of your own cards from being discarded pe
 [[Agendas]]
 [[Futile]]
 
+--------------
+
 #FEMACUBE #R6 #agenda #futile 

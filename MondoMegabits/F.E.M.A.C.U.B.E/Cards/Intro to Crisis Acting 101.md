@@ -15,9 +15,13 @@ Honor Roll BANG BANG BANG.. BANGBANGBANG, BANG-BANG!: Pick a creature to enroll 
 ♦ Destroy any location card, at will. 
 ♦ Creature retains this skill and may use it once per turn until killed
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R3]]
 [[Tactics]]
 [[Security measure]]
+
+--------------
 
 #FEMACUBE #R3 #tactic #security-measure 

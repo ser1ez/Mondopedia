@@ -22,4 +22,6 @@ If he doesn't answer, he doesn't love you. (destroy the tormented enemy creature
 [[Tactics]]
 [[Precaution]]
 
+--------------
+
 #FEMACUBE #R1 #tactic #precaution 

@@ -13,9 +13,13 @@ The solution: Stop Feeder Breeding (SFB! SFB! SFB come say it with me!). Once th
 Best Interest: Players cannot summon creatures for two (2) turns. 
 ♦ BRICS cards are immune to this agenda
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R1]]
 [[Agendas]]
 [[Hoax]]
+
+--------------
 
 #FEMACUBE #R1 #agenda #hoax 

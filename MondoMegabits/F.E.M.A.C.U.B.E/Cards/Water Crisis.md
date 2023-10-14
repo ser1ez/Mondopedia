@@ -19,4 +19,6 @@ Do Something: Discard inactive cards in hand; draw new until you get two (2) The
 [[Plot Twists]]
 [[Bad News]]
 
+--------------
+
 #FEMACUBE #R2 #plot-twist #bad-news 

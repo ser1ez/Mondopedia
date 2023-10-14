@@ -8,9 +8,13 @@ Create New Account: This location card allows you up to two (2) creature convers
 
 ♦ Swap out an active F.E.M.A.C.U.B.E.³ creature for another different one from your deck. Shuffle
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R2]]
 [[Locations]]
 [[Realm]]
+
+--------------
 
 #FEMACUBE #R2 #location #realm 

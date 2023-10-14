@@ -10,9 +10,13 @@ Head trauma is needed for the next part. Inhalants. Poop jenkem. Meth^2. Fart sp
 
 Sacrifice 75 HP from a creature and destroy one (1) of your drug cards in hand. Creature can now use psychic powers to null two (2) enemy moves of your choice- any enemy cards in play are subject to move nullification. Your psychic creature deals 200 additional DMG on next attack
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R5]]
 [[Challenges]]
 [[Tutorial Mission]]
+
+--------------
 
 #bum-legion-2099 #r5 #challenge #tutorial-mission 

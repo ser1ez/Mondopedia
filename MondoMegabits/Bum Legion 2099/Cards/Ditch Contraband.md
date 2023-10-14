@@ -7,9 +7,13 @@ You can attempt to drop a single item while under scrutiny without anyone notici
 ------------- 
 **Drop Dat Shit:** The police are coming. Discard this card along with one Big Pill card in your hand to draw three (3) additional cards
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R4]]
 [[Skills]]
 [[Skill arts]]
+
+--------------
 
 #bum-legion-2099 #R4 #skill #skill-arts 

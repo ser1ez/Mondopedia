@@ -12,9 +12,13 @@
 HEALS ENEMY FOR 25 HP 
 ♦ ⸮niɒϱɒ mǝʜɈ ɈiH :oɯT ʞɔɒɈɈA HEALS ENEMY FOR 25 HP
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R5]]
 [[Locations]]
 [[Realm]]
+
+--------------
 
 #FEMACUBE #R5 #location #realm 

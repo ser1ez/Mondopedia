@@ -12,9 +12,13 @@ The light went green and he went blue. There was a red streak for 4 miles. Then 
 
 +200 HP & +2 FYT for all creatures of the same faction that are currently in play at the time of the gruesome suicide
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R6]]
 [[Tactics]]
 [[Security measure]]
+
+--------------
 
 #bum-legion-2099 #R6 #tactic #security-measure 

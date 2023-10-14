@@ -19,12 +19,13 @@ Can't Help But Steal: When wounded, Cigarette Bum will steal HP from friendly cr
 ♦ 125 DMG 
 ♦ If you roll 6, 525 DMG. Critical care.
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R1]]
 [[Creatures]]
 [[Patsy]]
 
-#bum-legion-2099 
-#R1 
-#creature 
-#patsy 
+--------------
+
+#bum-legion-2099 #R1 #creature #patsy 

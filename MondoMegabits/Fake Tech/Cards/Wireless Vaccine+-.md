@@ -8,7 +8,8 @@
 **Network Test:** 7.7 Gbps Download / 35 Mbps upload
 
 Remotely inject any known vaccine into another person's genome--- yeah, get it in there, let it mess around inside.. Commonly utilized near elementary schools and fast food joints. Once applied to a target they become sluggish and weak, also they can't get hard anymore, permanently.
-***
+
+--------------
 
 **Rapivax:** Deals 25 damage for each vaccine; 
 * Unlimited use; 
@@ -27,9 +28,13 @@ Remotely inject any known vaccine into another person's genome--- yeah, get it i
 * Lowers target INT by 2; Player may target either his own creatures or opponent's, or both. A good strategic choice if you have many homosexual cards and your opponent has many high Intelligence cards. 
 * any safety certification (FDA and Dept. of Vaccinations pending as of publication).
 
+--------------
+
 [[Faction - Fake Tech]]
 [[R4]]
 [[Items]]
 [[Weapon]]
+
+--------------
 
 #fake-tech #R4 #item #weapon

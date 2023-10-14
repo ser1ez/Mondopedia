@@ -3,7 +3,7 @@
 > [!quote] 
 > *"Class Elegance. Tech. The new and improved iMono-Q 12"* 
 
-***
+
 * **Produced By;** PhozeComm Innovations LTD. 
 * **Retail price**: $3999.99 
 * **OS**: e-Phoze Presto10
@@ -22,12 +22,17 @@ TOP 5 SELFIES, CRYPTO TAXES OUTSTANDING, EMAIL EXCERPTS, RECENT BLOOD LABS.
 > [!success] 
 > Great way to gather valuable intel. 
 
-***
+-----------
+
 **Peeping Tom:** Inspect any cards from your opponent's hand, at your leisure (take your time). You may also take a peep at the top (5) cards from their deck. Them log all relevant data into your calendar app. Plan accordingly.
+
+-----------
 
 [[Faction - Fake Tech]]
 [[R1]]
 [[Items]]
 [[Tool]]
+
+-----------
 
 #fake-tech #R1 #item #tool 

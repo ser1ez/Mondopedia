@@ -9,9 +9,13 @@ Just like women only use 10% of their pussy, homeless only use 10% of their basi
 
 Psionic Bum Protection: While this card is on the field all Bum Legion creatures gain Max PSI points
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R3]]
 [[Agendas]]
 [[Divine]]
+
+--------------
 
 #bum-legion-2099 #R3 #agenda #divine 

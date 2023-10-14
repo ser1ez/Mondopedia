@@ -28,9 +28,13 @@ A thin foil jumpsuit covering the entire body with an embedded [[Power Cell]] el
 * Active Camo powers down halfway through
 * Life is ruined.
 
+----------
+
 [[Faction - Fake Tech]]
 [[R5]]
 [[Items]]
 [[Chromeware]]
+
+-----------
 
 #fake-tech #R5 #item #chromeware 

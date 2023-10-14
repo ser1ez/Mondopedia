@@ -10,9 +10,13 @@ Shizmadu lifeforms are suspected on Bruydac. Unlike the tribes, Shizmadu do not 
 
 Scant Trace: Repair stats on all currently in play creatures. Stat buffs remain
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R3]]
 [[Information]]
 [[Cosmology]]
+
+--------------
 
 #FEMACUBE #R3 #infomashun #cosmology 

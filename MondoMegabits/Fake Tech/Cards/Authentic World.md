@@ -17,9 +17,13 @@ Microbes & superfauna alike have an equal vote.
 * **50 Guilt DMG **
 * **Remove faction identity**. There's a lotta creatures out there... We're so small.
 
+-----------
+
 [[Faction - Fake Tech]]
 [[R1]]
 [[Locations]]
 [[realm]]
+
+-----------
 
 #fake-tech #R1 #location #realm

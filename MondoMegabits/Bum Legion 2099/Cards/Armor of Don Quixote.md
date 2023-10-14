@@ -10,9 +10,13 @@ Protection, AIDS Active: Equip this armor.
 ♦ Invisible to Thin Blue Whine & FEMACUBE creatures. Cannnot be targeted. 
 ♦ Creature can search deck for any card that has the word 'shit' in it, and add to hand.
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R6]]
 [[Items]]
 [[Armor]]
+
+--------------
 
 #bum-legion-2099 #R6 #item #armor 

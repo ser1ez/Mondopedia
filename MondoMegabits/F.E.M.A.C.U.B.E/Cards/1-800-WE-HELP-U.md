@@ -12,9 +12,13 @@ CALL: 1-800-WE-HELP-U (TOLL FREE. 24 HOUR SERVICE!)
 ♦Last four (4) creatures that have died (on either side) are resurrected, and must spend four (4) turns vacationing on an island in the pacific ocean. (not visible on Google maps). When vacation ends. the creature return to their owners’ hands. 
 ♦ Both players must discard items in play
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R3]]
 [[Plot Twists]]
 [[Boobie Trap]]
+
+--------------
 
 #FEMACUBE #R3 #plot-twist #boobie-trap

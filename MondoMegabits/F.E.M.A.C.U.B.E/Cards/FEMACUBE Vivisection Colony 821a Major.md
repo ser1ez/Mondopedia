@@ -21,4 +21,6 @@ Fun Colony 821a Major Facts #1: Colony 821a Major has a surface gravity of 400, 
 [[Locations]]
 [[Realm]]
 
+--------------
+
 #FEMACUBE #R2 #location #realm 

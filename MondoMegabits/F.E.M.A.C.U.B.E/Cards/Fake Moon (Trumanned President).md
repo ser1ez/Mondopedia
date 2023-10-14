@@ -13,9 +13,13 @@ Real Estate, Fake Moon: It sure fooled me. Wow!
 ♦ All friendly creatures gain +1 INT & PSI 
 ♦ All creatures with < STR cannot use item
 
+--------------
+
 [[Faction - F.E.M.A.C.U.B.E]]
 [[R4]]
 [[Locations]]
 [[Zone]]
+
+--------------
 
 #FEMACUBE #R4 #location #zone 

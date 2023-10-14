@@ -17,9 +17,13 @@ Running on Shit Fumes:
 ♦ The next enemy attack or spell takes 3 turns to land. 
 ♦ Creature who attacks next takes 50 Shit DMG
 
+--------------
+
 [[Faction - Bum Legion 2099]]
 [[R3]]
 [[Agendas]]
 [[Hoax]]
+
+--------------
 
 #bum-legion-2099 #R3 #agenda #hoax 
