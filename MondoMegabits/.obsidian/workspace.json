@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_RULES/Card Subtypes/Pissant.md",
+                "file": "_RULES/Card Subtypes/Paradigm shift.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_RULES/Card Subtypes/Pissant.md",
+                "file": "_RULES/Card Subtypes/Paradigm shift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_RULES/Card Subtypes/Pissant.md",
+                "file": "_RULES/Card Subtypes/Paradigm shift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_RULES/Card Subtypes/Pissant.md"
+                "file": "_RULES/Card Subtypes/Paradigm shift.md"
               }
             }
           },
@@ -187,8 +187,10 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "37afc070f5d97832",
+  "active": "3cd4aaba449f080c",
   "lastOpenFiles": [
+    "_RULES/Card Subtypes/Patsy.md",
+    "_RULES/Card Subtypes/Pissant.md",
     "_RULES/Card Subtypes/feath in cap.md",
     "_RULES/Card Subtypes/Actually useful.md",
     "Fake Tech/Cards/Xbox Live Vision Camera (HACKED).md",
@@ -213,8 +215,6 @@
     "Fake Tech/Cards/Social Media Mogul's Beard.md",
     "_RULES/Card Subtypes/Relic.md",
     "Fake Tech/Cards/Skillbo Bowlins (Quad-Ought Gauge).md",
-    "Fake Tech/Cards/Shitfan.md",
-    "Fake Tech/Cards/Rogue Implant.md",
     "mondo_logo-white.webp",
     "Pasted image 20231013211309.png",
     "favicon-128x128.png",
