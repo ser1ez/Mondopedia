@@ -13,26 +13,146 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_RULES/Card Subtypes/Zaibatsu.md",
+                "file": "Bum Legion 2099/Cards/The Tools you need.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3cd4aaba449f080c",
+            "id": "b41c8991db7a6c2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_RULES/Card Subtypes/Paradigm shift.md",
+                "file": "F.E.M.A.C.U.B.E/Cards/Nati Pop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9ed43060ef5efa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F.E.M.A.C.U.B.E/Cards/The Great Reset.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce547f878dd79685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F.E.M.A.C.U.B.E/Cards/Commonplace Cannibalism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "219a5d1a23b8511e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F.E.M.A.C.U.B.E/Cards/Targeted Individual Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44f9ce5a466a60bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bum Legion 2099/Cards/Sky bums.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed3c9b4a06d72e52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F.E.M.A.C.U.B.E/Cards/Depopulation Killshot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f6e02b22562aa34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F.E.M.A.C.U.B.E/Cards/Forced Sterilization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6684954d8871557",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bum Legion 2099/Cards/Extra Gas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d50f0b2b04b7ee5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F.E.M.A.C.U.B.E/Cards/Homeland Security Sexual Threat Scale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "664a0b08aec34ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "F.E.M.A.C.U.B.E/Cards/Gifted Childrens Research Program.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a0876a44c2e2019",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tantillo Systems/Faction - Tantillo Systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -61,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "B-Ro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 773.5
+    "width": 259.5
   },
   "right": {
     "id": "b9eaebdd2016bb20",
@@ -106,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_RULES/Card Subtypes/Paradigm shift.md",
+                "file": "Tantillo Systems/Faction - Tantillo Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_RULES/Card Subtypes/Paradigm shift.md",
+                "file": "Tantillo Systems/Faction - Tantillo Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_RULES/Card Subtypes/Paradigm shift.md"
+                "file": "Tantillo Systems/Faction - Tantillo Systems.md"
               }
             }
           },
@@ -187,34 +307,39 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3cd4aaba449f080c",
+  "active": "0a0876a44c2e2019",
   "lastOpenFiles": [
-    "_RULES/Card Subtypes/Patsy.md",
-    "_RULES/Card Subtypes/Pissant.md",
-    "_RULES/Card Subtypes/feath in cap.md",
-    "_RULES/Card Subtypes/Actually useful.md",
-    "Fake Tech/Cards/Xbox Live Vision Camera (HACKED).md",
-    "Fake Tech/Cards/Wireless Vaccine+-.md",
-    "Fake Tech/Cards/Waypoint Database.md",
-    "Fake Tech/Cards/Verbal Word Bullets.md",
-    "Fake Tech/Cards/Utopia - Scrupulous Automation.md",
-    "Fake Tech/Cards/Understandroid.md",
-    "Fake Tech/Cards/Time Machine.md",
-    "_RULES/Card Subtypes/X-Factor.md",
-    "Fake Tech/Cards/Time Cube.md",
-    "Fake Tech/Cards/TIA Wave Projector.md",
-    "Fake Tech/Cards/The Pursuit of Knowledge.md",
-    "Fake Tech/Cards/The Living House.md",
-    "Fake Tech/Cards/The Algorithm.md",
-    "Fake Tech/Cards/Temperature Regulator.md",
-    "Fake Tech/Cards/Teleport Tracker.md",
-    "Fake Tech/Cards/Super Computer 1999.md",
-    "_RULES/Card Subtypes/Lackey.md",
-    "Fake Tech/Cards/Stealth Warp.md",
-    "Fake Tech/Cards/Startup Guy.md",
-    "Fake Tech/Cards/Social Media Mogul's Beard.md",
-    "_RULES/Card Subtypes/Relic.md",
-    "Fake Tech/Cards/Skillbo Bowlins (Quad-Ought Gauge).md",
+    "No Future/Faction - No Future.md",
+    "Tantillo Systems/Faction - Tantillo Systems.md",
+    "Rainbow Riot/Faction - Rainbow Riot.md",
+    "Team Rinkbean-The Hive/Faction Team Rinkbean-The Hive.md",
+    "No Future",
+    "Tantillo Systems",
+    "Gross Shits/Faction - Gross Shits.md",
+    "Team Rinkbean-The Hive",
+    "BRICS/Faction - BRICS.md",
+    "Gross Shits",
+    "Thin Blue Whine/Faction - Thin Blue Whine.md",
+    "F.E.M.A.C.U.B.E/Cards/B-Rock The Islamic Shock Hussein O-Bomb-Ya.md",
+    "BRICS",
+    "Bum Legion 2099/Cards/The Man with the golden Voice Obama Fedvy.md",
+    "_RULES/Card Subtypes/Figurehead.md",
+    "_RULES/Ruleset.md",
+    "F.E.M.A.C.U.B.E/Cards/Trumanning the President.md",
+    "F.E.M.A.C.U.B.E/Cards/Gifted Childrens Research Program.md",
+    "F.E.M.A.C.U.B.E/Cards/Homeland Security Sexual Threat Scale.md",
+    "Bum Legion 2099/Cards/Extra Gas.md",
+    "F.E.M.A.C.U.B.E/Cards/Forced Sterilization.md",
+    "F.E.M.A.C.U.B.E/Cards/Depopulation Killshot.md",
+    "Bum Legion 2099/Cards/Sky bums.md",
+    "F.E.M.A.C.U.B.E/Cards/Targeted Individual Database.md",
+    "F.E.M.A.C.U.B.E/Cards/Commonplace Cannibalism.md",
+    "F.E.M.A.C.U.B.E/Cards/The Great Reset.md",
+    "F.E.M.A.C.U.B.E/Cards/Nati Pop.md",
+    "Bum Legion 2099/Cards/The Tools you need.md",
+    "Bum Legion 2099/Cards/Badd Notification.md",
+    "_RULES/Card Subtypes/Zaibatsu.md",
+    "_RULES/Rarity/R3.md",
     "mondo_logo-white.webp",
     "Pasted image 20231013211309.png",
     "favicon-128x128.png",
@@ -223,13 +348,8 @@
     "Rainbow Riot",
     "_Additional Information",
     "Artists & Devs/Untitled",
-    "_RULES/Card Subtypes",
-    "F.E.M.A.C.U.B.E/!!! SPOILERS !!! Cards",
-    "Bum Legion 2099/!!!SPOILERS!!! Cards",
     "Pasted image 20231011200157.png",
     "Pasted image 20230502131200.png",
-    "Bum Legion 2099/Videos/0120.mp4",
-    "Bum Legion 2099/Videos/0120.mp4.opdownload",
     "_Additional Information/Artists & Devs/media/jetneptune.png",
     "Bum Legion 2099/Pictures/Spoiler_themanwiththegoldenvoice_bumlegion2099.png",
     "Bum Legion 2099/Pictures/Spoiler_RawTruth_bumlegion2099.png",

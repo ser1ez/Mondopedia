@@ -1,6 +1,8 @@
 <iframe src="https://cdn2.mondomegabits.com/cards/videos/av1/0193.mp4" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
-"We are currently at a Code Blue. You better hope to God we don't see a Code Magenta." [Play this card face-down until the rules say to reveal it.] Beginning in 2020 after the rise of Rainbow R!ot, FedGov had to develop their own threat advance warning system to combat the Gay Agenda. The system carefully monitors AIDS outbreaks and attempts to associate them with the corresponding Grindr accounts, in order to pin down culprits before they can strike again. F.E.M.A.C.U.B.E.³ agents assigned to this task force are thoroughly vetted for homosexuality, and forced at gunpoint to take the Heterosexual Pledge. 
+"We are currently at a Code Blue. You better hope to God we don't see a Code Magenta."
+
+Play this card face-down until the rules say to reveal it. Beginning in 2020 after the rise of Rainbow R!ot, FedGov had to develop their own threat advance warning system to combat the Gay Agenda. The system carefully monitors AIDS outbreaks and attempts to associate them with the corresponding Grindr accounts, in order to pin down culprits before they can strike again. F.E.M.A.C.U.B.E.³ agents assigned to this task force are thoroughly vetted for homosexuality, and forced at gunpoint to take the Heterosexual Pledge. 
 
 -------------------- 
 
